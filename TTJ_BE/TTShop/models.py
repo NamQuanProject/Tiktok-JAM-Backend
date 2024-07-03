@@ -1,4 +1,21 @@
+from django.db import models
+from django.contrib.auth.models import AbstractUser, BaseUserManager
 from openai import OpenAI
+import uuid
+# Create your models here.
+
+
+
+class User(AbstractUser):
+    id = models.CharField(max_length=255, default= uuid.uuid4 ,primary_key=True)
+    full_name = models.CharField(max_length=225, blank=False)
+    bio = models.CharField(max_length=255, blank=True)
+    shopping_history = []
+    
+    def __str__(self):
+        return self.username
+    
+
 
 def get_rec(prompt):
     client = OpenAI(
@@ -22,4 +39,7 @@ def process_response(answer):
         inside = answer[start_index:end_index + 1]
         return inside
     return ""
+
+
+
 
