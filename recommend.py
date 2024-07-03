@@ -5,10 +5,6 @@ from model import get_rec, process_response
 
 
 
-
-
-
-
 class RecommendProducts():
     def __init__(self):
         with open("products.json") as file:
@@ -26,7 +22,6 @@ class RecommendProducts():
             if "category" in product:  
                 category  = product["category"]
                 self.unique_categories.add(category["type"])
-
 
     def getCategoryRec(self, query):      
         context = ", ".join(self.unique_categories)
@@ -50,13 +45,7 @@ class RecommendProducts():
         categories_of_interest = json.loads(text_response)
         return categories_of_interest
 
-
-
-
-
-
-
-    def recommend_products(self, categories):
+    def recommend_products(self, categories, shopping_history):
         recommended_products = []
         
         for product in self.products:
@@ -77,7 +66,20 @@ class RecommendProducts():
 
 
 
-query = "I want a gift which is vintage and look nice for my girlfriend"
+shopping_history = {
+    "categories": [
+        {
+            "type": "clothing",
+            "style": {"vintage" : 25, "kids" : 10},
+        },
+        {
+            "type": "gifts",
+            "style": {"vintage" : 10, "luxury" : 5},
+        }
+    ] 
+}
+
+query = "I want a beautiful dress for my girl"
 rec = RecommendProducts()
 categories_of_interest = rec.getCategoryRec(query=query)
 rec_products = rec.recommend_products(categories_of_interest)
@@ -86,8 +88,3 @@ print(len(rec_products))
 
 
 
-history  = {
-
-
-
-}
