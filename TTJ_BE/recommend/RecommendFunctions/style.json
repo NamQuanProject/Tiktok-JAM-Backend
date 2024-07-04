@@ -1,0 +1,214 @@
+{
+    "clothing": [
+        "formal",
+        "tops",
+        "shoes",
+        "pajamas",
+        "hoodies",
+        "grunge",
+        "industrial",
+        "jeans",
+        "business casual",
+        "blouses",
+        "kids",
+        "t-shirts",
+        "sporty",
+        "sweatshirts",
+        "classic",
+        "pants",
+        "shirts",
+        "sleepwear",
+        "sweaters",
+        "dresses",
+        "streetwear",
+        "trousers",
+        "shorts",
+        "scandinavian",
+        "athleisure",
+        "blazers",
+        "artsy",
+        "underwear",
+        "vintage",
+        "polo shirts",
+        "bohemian",
+        "punk",
+        "leggings",
+        "women",
+        "modern",
+        "traditional",
+        "trendy",
+        "men",
+        "minimalist",
+        "ethnic",
+        "jerseys",
+        "bodysuits",
+        "country",
+        "skirts",
+        "preppy",
+        "hats",
+        "casual dresses",
+        "casual",
+        "gothic",
+        "gloves",
+        "polos",
+        "chic",
+        "scarves",
+        "hipster",
+        "lingerie",
+        "socks",
+        "jackets",
+        "sweatpants",
+        "coats",
+        "retro",
+        "suits",
+        "loungewear",
+        "dress shirts"
+    ],
+    "sport": [
+        "urban",
+        "casual"
+    ],
+    "cookware": [
+        "formal",
+        "vintage",
+        "country",
+        "glamorous"
+    ],
+    "home": [
+        "urban",
+        "art deco",
+        "glamorous",
+        "modern"
+    ],
+    "cleaning": [
+        "bohemian",
+        "modern",
+        "traditional",
+        "minimalist",
+        "art deco",
+        "rustic",
+        "country"
+    ],
+    "shoes": [
+        "urban",
+        "country",
+        "bohemian",
+        "classic"
+    ],
+    "accessories": [
+        "country",
+        "retro",
+        "chic"
+    ],
+    "electronics": [
+        "user-friendly",
+        "compact",
+        "ergonomic",
+        "sleek"
+    ],
+    "books": [
+        "casual",
+        "industrial",
+        "sporty",
+        "bohemian"
+    ],
+    "sports & outdoors": [
+        "rustic",
+        "casual",
+        "traditional",
+        "country"
+    ],
+    "beauty & personal care": [
+        "formal",
+        "vintage",
+        "trendy",
+        "industrial"
+    ],
+    "toys & games": [
+        "urban",
+        "minimalist",
+        "trendy",
+        "industrial"
+    ],
+    "health & household": [
+        "art deco",
+        "country",
+        "bohemian",
+        "classic"
+    ],
+    "automotive": [
+        "urban",
+        "art deco",
+        "minimalist",
+        "country"
+    ],
+    "baby products": [
+        "vintage",
+        "traditional",
+        "retro",
+        "glamorous"
+    ],
+    "pet supplies": [
+        "casual",
+        "glamorous",
+        "trendy",
+        "sporty"
+    ],
+    "grocery & gourmet food": [
+        "country",
+        "trendy",
+        "chic",
+        "classic"
+    ],
+    "musical instruments": [
+        "urban",
+        "formal",
+        "glamorous",
+        "rustic"
+    ],
+    "office products": [
+        "modern",
+        "traditional",
+        "trendy"
+    ],
+    "tools & home improvement": [
+        "art deco",
+        "traditional",
+        "industrial",
+        "retro"
+    ],
+    "jewelry": [
+        "vintage",
+        "glamorous",
+        "trendy",
+        "minimalist"
+    ],
+    "luggage & travel gear": [
+        "sporty",
+        "traditional",
+        "classic"
+    ],
+    "garden & outdoor": [
+        "modern",
+        "traditional",
+        "trendy",
+        "glamorous"
+    ],
+    "arts, crafts & sewing": [
+        "rustic",
+        "urban",
+        "bohemian"
+    ],
+    "industrial & scientific": [
+        "modern",
+        "country",
+        "retro",
+        "scandinavian"
+    ],
+    "gifts": [
+        "trendy",
+        "industrial",
+        "chic",
+        "classic"
+    ]
+}
