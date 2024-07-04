@@ -4,3 +4,4 @@ Django
 accelerate
 djangorestframework
 django-cors-headers
+pillow

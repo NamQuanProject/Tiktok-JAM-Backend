@@ -6,16 +6,31 @@ from model import get_rec, process_response
 
 
 class RecommendProducts():
+    """
+        self.products = [{}, {}, ...]  list of products
+        self.styles = { 
+            category1: [style1, style2, ...],
+            category2: [style1, style2, ...],
+            ...
+        }
+        self.unique_categories = set of unique categories of products
+        self.category_context = string of unique categories  
+            e.g. 
+            accessories, home, Pet Supplies, Arts, Crafts & Sewing,..
+        self.styles_context = string of styles
+            e.g. 
+            shoes: ['urban', 'country', 'bohemian', 'classic']
+            accessories: ['country', 'retro', 'chic']
+            ...
+    """
+   
     def __init__(self):
         with open("products.json") as file:
             data = json.load(file)
             self.products = data["products"]
         
-
         with open("style.json") as file:
             self.styles = json.load(file)
-
-
 
         self.unique_categories = set()
         for ind, product in enumerate(self.products):
@@ -85,7 +100,6 @@ class RecommendProducts():
         recommended_products = sorted(recommended_products, key=lambda x: x["rating"]["stars"], reverse=True)
         return recommended_products
 
-
     def checkbox_category_recommend(self, categories, shopping_history):
         recommended_products = []
 
@@ -112,9 +126,6 @@ class RecommendProducts():
         recommended_products = sorted(recommended_products, key=lambda x: x["rating"]["stars"], reverse=True)
         return recommended_products
         
-    
-
-
     def shopping_history_recommend(self, shopping_history):
         recommended_products = []
         category_preferences = shopping_history["categories"]
@@ -135,19 +146,11 @@ class RecommendProducts():
         recommended_products = sorted(recommended_products, key=lambda x: x["rating"]["stars"], reverse=True)
         return recommended_products
 
-
-"""
-
-
-
-shopping_history = {
-    "categories": [
-        "clothing": {"vintage" : 25, "kids" : 10},
-        "gifts": {"trendy" : 30, "..." : ...},
-    ]
-    "average_price" : ... 
-}
-"""
+    def get_style_context(self):
+        return self.styles_context
+    
+    def get_category_context(self):
+        return self.category_context
 
 check_box_category = {
     "low_price": 0,
@@ -157,6 +160,7 @@ check_box_category = {
 }
 
 query = "I want to buy gifts as clothing for my boy friend"
+
 user1_shopping_history = {
     "new_user" : False,
     "categories": {
@@ -177,11 +181,23 @@ user1_shopping_history = {
 #     "price" : None,
 # }
 
+"""
+shopping_history = {
+    "categories": [
+        "clothing": {"vintage" : 25, "kids" : 10},
+        "gifts": {"trendy" : 30, "..." : ...},
+    ]
+    "average_price" : ... 
+}
+"""
+
+ 
 rec = RecommendProducts()
-# categories_of_interest = rec.getCategoryRec(query=query)
-rec_products = rec.shopping_history_recommend(shopping_history)
-print(rec_products[:10])
-print(len(rec_products))
+#print(rec.get_category_context())
+categories_of_interest = rec.getCategoryRec(query=query)
+# rec_products = rec.shopping_history_recommend(user1_shopping_history)
+# print(rec_products[:10])
+# print(len(rec_products))
 
 
 
