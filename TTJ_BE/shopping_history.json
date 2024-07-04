@@ -1,0 +1,5113 @@
+[
+  {
+    "user": "Aaron",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "sporty": 8,
+          "athleisure": 25,
+          "punk": 7,
+          "jerseys": 7,
+          "men": 17,
+          "gothic": 27,
+          "classic": 9,
+          "blouses": 14,
+          "kids": 23,
+          "casual": 10,
+          "streetwear": 8,
+          "dresses": 9,
+          "chic": 13,
+          "loungewear": 5,
+          "grunge": 5,
+          "formal": 2,
+          "retro": 12,
+          "sweatpants": 10,
+          "women": 10,
+          "ethnic": 10,
+          "blazers": 10,
+          "vintage": 8,
+          "business casual": 1
+        },
+        "home": {
+          "minimalist": 7,
+          "bohemian": 7,
+          "trendy": 7,
+          "industrial": 7
+        },
+        "electronics": {
+          "compact": 2,
+          "portable": 2,
+          "reliable": 2,
+          "high-tech": 2
+        }
+      },
+      "average_price": 9658
+    }
+  },
+  {
+    "user": "Abigail",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "bohemian": 8,
+          "grunge": 8,
+          "chic": 8,
+          "hoodies": 8,
+          "kids": 8,
+          "gothic": 19,
+          "punk": 19,
+          "casual": 9,
+          "pajamas": 9,
+          "women": 9,
+          "ethnic": 10,
+          "blazers": 10,
+          "men": 10
+        },
+        "musical instruments": {
+          "rustic": 7,
+          "glamorous": 6,
+          "modern": 6,
+          "bohemian": 8,
+          "trendy": 1
+        },
+        "electronics": {
+          "ergonomic": 5,
+          "compact": 5,
+          "efficient": 5,
+          "reliable": 14,
+          "innovative": 9,
+          "durable": 9,
+          "smart": 16,
+          "advanced": 7,
+          "versatile": 14
+        },
+        "arts, crafts & sewing": {
+          "minimalist": 1,
+          "vintage": 1,
+          "glamorous": 1,
+          "retro": 1
+        },
+        "garden & outdoor": {
+          "industrial": 2,
+          "trendy": 1,
+          "bohemian": 1
+        }
+      },
+      "average_price": 6072
+    }
+  },
+  {
+    "user": "Adam",
+    "shopping_history": {
+      "categories": {
+        "tools & home improvement": {
+          "minimalist": 1,
+          "trendy": 2,
+          "sporty": 1
+        },
+        "clothing": {
+          "business casual": 12,
+          "sporty": 8,
+          "classic": 19,
+          "leggings": 11,
+          "kids": 15,
+          "vintage": 16,
+          "hipster": 7,
+          "chic": 7,
+          "lingerie": 7,
+          "women": 33,
+          "preppy": 3,
+          "ethnic": 15,
+          "casual": 4,
+          "gloves": 4,
+          "athleisure": 17,
+          "jeans": 17,
+          "minimalist": 9,
+          "pants": 9,
+          "grunge": 9,
+          "streetwear": 9,
+          "retro": 9
+        },
+        "electronics": {
+          "advanced": 21,
+          "high-tech": 6,
+          "smart": 6,
+          "intuitive": 9,
+          "compact": 9,
+          "user-friendly": 9
+        }
+      },
+      "average_price": 5866
+    }
+  },
+  {
+    "user": "Aiden",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "gothic": 6,
+          "retro": 4,
+          "loungewear": 1,
+          "blouses": 1,
+          "kids": 4,
+          "punk": 1,
+          "hipster": 1,
+          "artsy": 6,
+          "shirts": 1,
+          "men": 1,
+          "vintage": 6,
+          "pants": 5,
+          "women": 5,
+          "sporty": 1,
+          "t-shirts": 1,
+          "business casual": 2,
+          "streetwear": 2,
+          "hats": 2
+        },
+        "electronics": {
+          "ergonomic": 8,
+          "portable": 2,
+          "advanced": 8,
+          "compact": 2,
+          "smart": 7,
+          "durable": 7,
+          "versatile": 7,
+          "innovative": 7,
+          "high-tech": 6,
+          "intuitive": 6
+        },
+        "shoes": {
+          "scandinavian": 9,
+          "traditional": 9,
+          "art deco": 9,
+          "chic": 9
+        },
+        "accessories": {
+          "modern": 2,
+          "classic": 2,
+          "casual": 2,
+          "minimalist": 2
+        }
+      },
+      "average_price": 10095
+    }
+  },
+  {
+    "user": "Alan",
+    "shopping_history": {
+      "categories": {
+        "arts, crafts & sewing": {
+          "modern": 6,
+          "scandinavian": 3,
+          "urban": 3
+        },
+        "clothing": {
+          "gothic": 24,
+          "formal": 6,
+          "sporty": 12,
+          "shirts": 6,
+          "men": 13,
+          "punk": 12,
+          "loungewear": 1,
+          "dress shirts": 1,
+          "women": 13,
+          "ethnic": 7,
+          "blazers": 7,
+          "artsy": 6,
+          "leggings": 6,
+          "kids": 6,
+          "classic": 16,
+          "streetwear": 8,
+          "hoodies": 8,
+          "business casual": 4,
+          "blouses": 4
+        },
+        "beauty & personal care": {
+          "rustic": 2,
+          "urban": 2,
+          "classic": 2,
+          "art deco": 2
+        },
+        "home": {
+          "industrial": 3,
+          "retro": 6,
+          "scandinavian": 3
+        },
+        "tools & home improvement": {
+          "retro": 5,
+          "vintage": 5,
+          "art deco": 5,
+          "urban": 5
+        }
+      },
+      "average_price": 5265
+    }
+  },
+  {
+    "user": "Albert",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "casual": 16,
+          "hipster": 15,
+          "grunge": 13,
+          "t-shirts": 10,
+          "men": 15,
+          "vintage": 8,
+          "streetwear": 8,
+          "preppy": 8,
+          "blouses": 8,
+          "kids": 10,
+          "dresses": 3,
+          "women": 3,
+          "gothic": 2,
+          "ethnic": 2,
+          "retro": 2,
+          "jackets": 2,
+          "loungewear": 5,
+          "sporty": 5,
+          "jeans": 5
+        },
+        "shoes": {
+          "retro": 2,
+          "art deco": 4,
+          "vintage": 2,
+          "classic": 4,
+          "rustic": 4
+        },
+        "automotive": {
+          "formal": 4,
+          "bohemian": 4,
+          "sporty": 4,
+          "classic": 4
+        },
+        "baby products": {
+          "modern": 8,
+          "minimalist": 8,
+          "urban": 8,
+          "traditional": 8
+        },
+        "electronics": {
+          "intuitive": 10,
+          "versatile": 10,
+          "innovative": 10,
+          "sleek": 10
+        }
+      },
+      "average_price": 6306
+    }
+  },
+  {
+    "user": "Alex",
+    "shopping_history": {
+      "categories": {
+        "books": {
+          "sporty": 1,
+          "country": 1,
+          "classic": 1,
+          "chic": 1
+        },
+        "clothing": {
+          "formal": 10,
+          "sporty": 9,
+          "retro": 9,
+          "shirts": 9,
+          "men": 9,
+          "punk": 1,
+          "streetwear": 1,
+          "grunge": 1,
+          "sweaters": 2,
+          "kids": 2,
+          "athleisure": 2,
+          "preppy": 2,
+          "hoodies": 1,
+          "women": 1,
+          "artsy": 1
+        },
+        "electronics": {
+          "reliable": 1,
+          "compact": 7,
+          "intuitive": 1,
+          "user-friendly": 1,
+          "ergonomic": 6,
+          "wireless": 6,
+          "innovative": 6
+        },
+        "musical instruments": {
+          "sporty": 13,
+          "urban": 13,
+          "classic": 7,
+          "minimalist": 7,
+          "retro": 6,
+          "vintage": 6
+        },
+        "jewelry": {
+          "chic": 10,
+          "art deco": 5,
+          "country": 5
+        }
+      },
+      "average_price": 13546
+    }
+  },
+  {
+    "user": "Alexander",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "vintage": 14,
+          "formal": 14,
+          "business casual": 10,
+          "lingerie": 10,
+          "women": 18,
+          "minimalist": 3,
+          "punk": 6,
+          "casual": 3,
+          "jeans": 3,
+          "kids": 17,
+          "retro": 10,
+          "bohemian": 13,
+          "blouses": 8,
+          "preppy": 16,
+          "hats": 6,
+          "hipster": 4,
+          "chic": 10,
+          "casual dresses": 2,
+          "loungewear": 6,
+          "gothic": 6,
+          "hoodies": 6,
+          "streetwear": 3,
+          "suits": 3,
+          "men": 5,
+          "sporty": 2,
+          "shirts": 2
+        },
+        "jewelry": {
+          "retro": 6,
+          "scandinavian": 6,
+          "casual": 6,
+          "vintage": 6
+        }
+      },
+      "average_price": 13996
+    }
+  },
+  {
+    "user": "Alice",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "traditional": 3,
+          "scandinavian": 3,
+          "minimalist": 4,
+          "hipster": 4,
+          "ethnic": 4,
+          "blouses": 4,
+          "women": 4,
+          "retro": 5,
+          "casual": 5,
+          "sporty": 5,
+          "blazers": 5,
+          "men": 5
+        },
+        "electronics": {
+          "intuitive": 7,
+          "versatile": 11,
+          "advanced": 28,
+          "high-tech": 4,
+          "durable": 4,
+          "reliable": 4,
+          "compact": 7,
+          "wireless": 7
+        },
+        "baby products": {
+          "rustic": 6,
+          "trendy": 6,
+          "chic": 6,
+          "glamorous": 6
+        },
+        "jewelry": {
+          "glamorous": 2,
+          "modern": 2,
+          "sporty": 2,
+          "art deco": 2,
+          "casual": 7,
+          "industrial": 7,
+          "traditional": 14
+        },
+        "home": {
+          "industrial": 2,
+          "chic": 2,
+          "country": 2,
+          "retro": 2
+        }
+      },
+      "average_price": 4992
+    }
+  },
+  {
+    "user": "Alicia",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "chic": 3,
+          "loungewear": 6,
+          "dresses": 3,
+          "kids": 8,
+          "ethnic": 4,
+          "streetwear": 5,
+          "classic": 4,
+          "suits": 4,
+          "women": 6,
+          "formal": 6,
+          "retro": 4,
+          "artsy": 5,
+          "t-shirts": 4,
+          "grunge": 2,
+          "punk": 2,
+          "dress shirts": 2,
+          "minimalist": 1,
+          "skirts": 1
+        },
+        "electronics": {
+          "advanced": 20,
+          "high-tech": 14,
+          "smart": 10,
+          "versatile": 5,
+          "ergonomic": 4,
+          "efficient": 5,
+          "innovative": 1,
+          "wireless": 1
+        },
+        "garden & outdoor": {
+          "vintage": 5,
+          "classic": 5,
+          "rustic": 5,
+          "country": 5
+        },
+        "shoes": {
+          "art deco": 2,
+          "bohemian": 2,
+          "casual": 2,
+          "industrial": 2
+        }
+      },
+      "average_price": 16035
+    }
+  },
+  {
+    "user": "Amanda",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "athleisure": 20,
+          "sporty": 25,
+          "ethnic": 21,
+          "hats": 9,
+          "kids": 28,
+          "punk": 4,
+          "grunge": 4,
+          "dress shirts": 4,
+          "women": 13,
+          "retro": 8,
+          "minimalist": 5,
+          "coats": 3,
+          "formal": 13,
+          "polo shirts": 8,
+          "classic": 5,
+          "shorts": 5,
+          "men": 7,
+          "preppy": 2,
+          "casual": 20,
+          "t-shirts": 2,
+          "artsy": 9,
+          "dresses": 9,
+          "streetwear": 8,
+          "pants": 8
+        },
+        "baby products": {
+          "chic": 5,
+          "traditional": 5,
+          "classic": 5,
+          "sporty": 5
+        },
+        "electronics": {
+          "portable": 9,
+          "wireless": 9,
+          "advanced": 9,
+          "versatile": 9
+        }
+      },
+      "average_price": 6835
+    }
+  },
+  {
+    "user": "Amber",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "sporty": 17,
+          "casual": 13,
+          "suits": 4,
+          "men": 9,
+          "artsy": 7,
+          "chic": 10,
+          "classic": 19,
+          "hoodies": 7,
+          "kids": 19,
+          "trendy": 5,
+          "traditional": 5,
+          "shorts": 9,
+          "formal": 1,
+          "grunge": 1,
+          "punk": 6,
+          "dress shirts": 1,
+          "women": 1,
+          "streetwear": 10,
+          "shirts": 5,
+          "athleisure": 3,
+          "leggings": 3
+        },
+        "garden & outdoor": {
+          "industrial": 4,
+          "urban": 4,
+          "formal": 4,
+          "country": 4
+        },
+        "luggage & travel gear": {
+          "chic": 1,
+          "formal": 1,
+          "bohemian": 2
+        },
+        "electronics": {
+          "high-tech": 5,
+          "versatile": 5,
+          "durable": 5,
+          "reliable": 5
+        }
+      },
+      "average_price": 10670
+    }
+  },
+  {
+    "user": "Amy",
+    "shopping_history": {
+      "categories": {
+        "shoes": {
+          "art deco": 5,
+          "bohemian": 7,
+          "trendy": 2,
+          "modern": 2,
+          "rustic": 2
+        },
+        "clothing": {
+          "classic": 9,
+          "grunge": 9,
+          "chic": 9,
+          "scarves": 5,
+          "kids": 13,
+          "bohemian": 4,
+          "hoodies": 4,
+          "sporty": 4,
+          "retro": 4,
+          "sweaters": 4
+        },
+        "electronics": {
+          "wireless": 21,
+          "ergonomic": 7,
+          "efficient": 7,
+          "high-tech": 7,
+          "portable": 7,
+          "sleek": 7
+        },
+        "baby products": {
+          "minimalist": 6,
+          "classic": 6,
+          "vintage": 6,
+          "art deco": 6
+        },
+        "home": {
+          "modern": 10,
+          "industrial": 10,
+          "minimalist": 10,
+          "urban": 10
+        },
+        "toys & games": {
+          "bohemian": 16,
+          "classic": 8,
+          "country": 8
+        }
+      },
+      "average_price": 8346
+    }
+  },
+  {
+    "user": "Andrea",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "sporty": 7,
+          "retro": 17,
+          "vintage": 7,
+          "jeans": 7,
+          "men": 13,
+          "business casual": 9,
+          "hipster": 14,
+          "shorts": 7,
+          "women": 8,
+          "punk": 1,
+          "grunge": 1,
+          "artsy": 5,
+          "skirts": 1,
+          "casual": 9,
+          "athleisure": 9,
+          "scarves": 9,
+          "kids": 14,
+          "formal": 1,
+          "chic": 5,
+          "sweatshirts": 1,
+          "loungewear": 6,
+          "ethnic": 4,
+          "gothic": 6,
+          "socks": 4,
+          "polos": 2,
+          "classic": 4,
+          "hoodies": 4
+        },
+        "books": {
+          "industrial": 10,
+          "traditional": 20,
+          "scandinavian": 10,
+          "sporty": 10,
+          "chic": 10,
+          "classic": 10,
+          "art deco": 10
+        }
+      },
+      "average_price": 6921
+    }
+  },
+  {
+    "user": "Andrew",
+    "shopping_history": {
+      "categories": {
+        "office products": {
+          "retro": 3,
+          "formal": 3,
+          "minimalist": 3,
+          "urban": 3
+        },
+        "clothing": {
+          "classic": 16,
+          "punk": 7,
+          "streetwear": 7,
+          "shorts": 8,
+          "men": 18,
+          "business casual": 9,
+          "sporty": 19,
+          "leggings": 9,
+          "kids": 9,
+          "vintage": 5,
+          "loungewear": 15,
+          "gothic": 5,
+          "casual dresses": 5,
+          "women": 5,
+          "hipster": 1,
+          "athleisure": 1,
+          "casual": 1,
+          "formal": 10,
+          "shirts": 10
+        },
+        "electronics": {
+          "high-tech": 7,
+          "versatile": 7,
+          "innovative": 7,
+          "efficient": 14,
+          "reliable": 7,
+          "smart": 7,
+          "ergonomic": 7
+        },
+        "books": {
+          "industrial": 9,
+          "casual": 9,
+          "formal": 9,
+          "sporty": 9
+        },
+        "gifts": {
+          "classic": 2,
+          "art deco": 2,
+          "retro": 2,
+          "chic": 2
+        }
+      },
+      "average_price": 9350
+    }
+  },
+  {
+    "user": "Angela",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "punk": 17,
+          "classic": 4,
+          "vintage": 4,
+          "jerseys": 4,
+          "men": 12,
+          "artsy": 10,
+          "loungewear": 8,
+          "gothic": 8,
+          "polo shirts": 5,
+          "kids": 9,
+          "bohemian": 5,
+          "socks": 8,
+          "grunge": 1,
+          "chic": 9,
+          "retro": 9,
+          "hoodies": 1,
+          "sporty": 3,
+          "hipster": 3,
+          "athleisure": 3,
+          "business casual": 3,
+          "polos": 3,
+          "shorts": 8,
+          "women": 8
+        },
+        "electronics": {
+          "intuitive": 3,
+          "high-tech": 3,
+          "reliable": 3,
+          "wireless": 3,
+          "smart": 3,
+          "durable": 3,
+          "versatile": 3,
+          "innovative": 3
+        },
+        "health & household": {
+          "casual": 6,
+          "trendy": 6,
+          "country": 6,
+          "classic": 6
+        }
+      },
+      "average_price": 7921
+    }
+  },
+  {
+    "user": "Anna",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "vintage": 13,
+          "streetwear": 5,
+          "ethnic": 13,
+          "hoodies": 9,
+          "women": 19,
+          "casual": 14,
+          "bodysuits": 8,
+          "sporty": 11,
+          "preppy": 6,
+          "suits": 6,
+          "traditional": 6,
+          "formal": 5,
+          "artsy": 9,
+          "shoes": 5,
+          "men": 9,
+          "gothic": 4,
+          "chic": 4
+        },
+        "cookware": {
+          "modern": 8,
+          "trendy": 8,
+          "traditional": 8,
+          "urban": 8
+        },
+        "electronics": {
+          "efficient": 14,
+          "portable": 7,
+          "advanced": 14,
+          "compact": 7,
+          "smart": 7,
+          "reliable": 7
+        },
+        "accessories": {
+          "country": 4,
+          "chic": 2,
+          "retro": 2
+        }
+      },
+      "average_price": 5798
+    }
+  },
+  {
+    "user": "Anthony",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "preppy": 9,
+          "punk": 9,
+          "bohemian": 9,
+          "leggings": 9,
+          "kids": 26,
+          "sporty": 8,
+          "vintage": 17,
+          "streetwear": 11,
+          "jeans": 8,
+          "athleisure": 18,
+          "formal": 9,
+          "hoodies": 9,
+          "men": 9,
+          "business casual": 3,
+          "artsy": 3,
+          "blazers": 3,
+          "women": 3,
+          "chic": 9,
+          "casual": 9,
+          "jackets": 9
+        },
+        "electronics": {
+          "durable": 7,
+          "smart": 7,
+          "efficient": 7,
+          "high-tech": 7
+        },
+        "grocery & gourmet food": {
+          "sporty": 4,
+          "industrial": 9,
+          "art deco": 4,
+          "casual": 4,
+          "formal": 5,
+          "modern": 5,
+          "country": 5
+        },
+        "jewelry": {
+          "sporty": 7,
+          "rustic": 8,
+          "vintage": 7,
+          "glamorous": 7,
+          "casual": 2,
+          "classic": 1
+        }
+      },
+      "average_price": 8830
+    }
+  },
+  {
+    "user": "Arthur",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "ethnic": 6,
+          "streetwear": 1,
+          "loungewear": 8,
+          "blazers": 1,
+          "women": 13,
+          "classic": 1,
+          "hipster": 1,
+          "punk": 1,
+          "shoes": 1,
+          "men": 1,
+          "artsy": 12,
+          "formal": 7,
+          "blouses": 7,
+          "retro": 5,
+          "skirts": 5
+        },
+        "electronics": {
+          "smart": 6,
+          "durable": 6,
+          "versatile": 6,
+          "innovative": 20,
+          "high-tech": 7,
+          "efficient": 7
+        },
+        "cookware": {
+          "sporty": 6,
+          "urban": 6,
+          "minimalist": 6,
+          "industrial": 6
+        },
+        "automotive": {
+          "trendy": 1,
+          "classic": 1,
+          "casual": 1,
+          "industrial": 1
+        },
+        "arts, crafts & sewing": {
+          "bohemian": 14,
+          "rustic": 7,
+          "urban": 7
+        },
+        "pet supplies": {
+          "formal": 8,
+          "urban": 8,
+          "sporty": 8,
+          "rustic": 8
+        }
+      },
+      "average_price": 9214
+    }
+  },
+  {
+    "user": "Ashley",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "chic": 4,
+          "ethnic": 4,
+          "bohemian": 5,
+          "trousers": 4,
+          "women": 12,
+          "loungewear": 6,
+          "retro": 6,
+          "formal": 6,
+          "jerseys": 6,
+          "men": 6,
+          "sporty": 1,
+          "preppy": 9,
+          "shorts": 1,
+          "kids": 1,
+          "business casual": 8,
+          "gothic": 8,
+          "t-shirts": 8
+        },
+        "tools & home improvement": {
+          "minimalist": 1,
+          "trendy": 2,
+          "sporty": 1
+        },
+        "baby products": {
+          "chic": 5,
+          "traditional": 5,
+          "classic": 5,
+          "sporty": 5
+        },
+        "electronics": {
+          "innovative": 12,
+          "portable": 8,
+          "intuitive": 8,
+          "sleek": 8,
+          "user-friendly": 4,
+          "advanced": 15,
+          "high-tech": 7,
+          "efficient": 14
+        },
+        "accessories": {
+          "trendy": 16,
+          "chic": 8,
+          "classic": 8
+        }
+      },
+      "average_price": 4542
+    }
+  },
+  {
+    "user": "Barbara",
+    "shopping_history": {
+      "categories": {
+        "office products": {
+          "glamorous": 1,
+          "art deco": 1,
+          "bohemian": 1,
+          "minimalist": 1
+        },
+        "beauty & personal care": {
+          "rustic": 6,
+          "trendy": 6,
+          "classic": 6,
+          "modern": 6
+        },
+        "electronics": {
+          "portable": 4,
+          "smart": 4,
+          "versatile": 4,
+          "high-tech": 4,
+          "reliable": 5,
+          "compact": 5,
+          "intuitive": 5,
+          "user-friendly": 5
+        },
+        "garden & outdoor": {
+          "vintage": 10,
+          "scandinavian": 10,
+          "retro": 15,
+          "classic": 10,
+          "country": 5,
+          "traditional": 5,
+          "sporty": 5
+        },
+        "clothing": {
+          "grunge": 16,
+          "retro": 9,
+          "loungewear": 6,
+          "jerseys": 6,
+          "men": 6,
+          "artsy": 10,
+          "minimalist": 10,
+          "coats": 10,
+          "kids": 10,
+          "chic": 9,
+          "formal": 9,
+          "sporty": 9,
+          "tops": 12,
+          "women": 12,
+          "business casual": 3,
+          "bohemian": 3
+        }
+      },
+      "average_price": 5293
+    }
+  },
+  {
+    "user": "Benjamin",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "grunge": 3,
+          "athleisure": 3,
+          "casual": 12,
+          "skirts": 3,
+          "kids": 8,
+          "gothic": 11,
+          "sporty": 18,
+          "sweatpants": 11,
+          "women": 11,
+          "streetwear": 4,
+          "retro": 4,
+          "suits": 4,
+          "men": 4,
+          "loungewear": 7,
+          "formal": 2,
+          "chic": 5,
+          "socks": 5
+        },
+        "shoes": {
+          "rustic": 7,
+          "chic": 7
+        },
+        "grocery & gourmet food": {
+          "country": 1,
+          "retro": 1,
+          "modern": 1,
+          "trendy": 1
+        },
+        "cookware": {
+          "bohemian": 16,
+          "urban": 8,
+          "trendy": 8
+        },
+        "electronics": {
+          "sleek": 3,
+          "compact": 3,
+          "smart": 3,
+          "versatile": 3
+        },
+        "industrial & scientific": {
+          "retro": 5,
+          "scandinavian": 5,
+          "modern": 5,
+          "country": 5
+        }
+      },
+      "average_price": 4797
+    }
+  },
+  {
+    "user": "Betty",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "artsy": 10,
+          "business casual": 12,
+          "retro": 5,
+          "jackets": 14,
+          "kids": 27,
+          "hipster": 8,
+          "sporty": 8,
+          "streetwear": 13,
+          "pants": 8,
+          "ethnic": 7,
+          "preppy": 7,
+          "skirts": 7,
+          "women": 7,
+          "punk": 18,
+          "grunge": 9,
+          "gothic": 5,
+          "t-shirts": 5
+        },
+        "home": {
+          "classic": 6,
+          "chic": 6,
+          "sporty": 6,
+          "art deco": 6,
+          "retro": 3,
+          "trendy": 3,
+          "casual": 8,
+          "rustic": 8
+        },
+        "health & household": {
+          "art deco": 7,
+          "retro": 7,
+          "vintage": 7,
+          "traditional": 7
+        },
+        "cookware": {
+          "art deco": 5,
+          "trendy": 5,
+          "modern": 5,
+          "rustic": 5
+        }
+      },
+      "average_price": 5625
+    }
+  },
+  {
+    "user": "Beverly",
+    "shopping_history": {
+      "categories": {
+        "home": {
+          "industrial": 9,
+          "chic": 9,
+          "country": 9,
+          "retro": 9
+        },
+        "clothing": {
+          "chic": 7,
+          "loungewear": 14,
+          "blouses": 7,
+          "kids": 10,
+          "casual": 3,
+          "hipster": 3,
+          "retro": 3,
+          "gloves": 3,
+          "business casual": 2,
+          "bohemian": 2,
+          "grunge": 2,
+          "suits": 2,
+          "women": 2
+        },
+        "electronics": {
+          "user-friendly": 10,
+          "intuitive": 10,
+          "ergonomic": 10,
+          "advanced": 10
+        },
+        "musical instruments": {
+          "retro": 9,
+          "vintage": 9,
+          "urban": 9,
+          "sporty": 9
+        },
+        "arts, crafts & sewing": {
+          "chic": 1,
+          "formal": 1,
+          "trendy": 1,
+          "casual": 1,
+          "art deco": 20,
+          "sporty": 10,
+          "country": 10
+        },
+        "accessories": {
+          "bohemian": 7,
+          "minimalist": 7,
+          "glamorous": 7,
+          "retro": 7
+        },
+        "grocery & gourmet food": {
+          "industrial": 6,
+          "art deco": 12,
+          "formal": 6
+        }
+      },
+      "average_price": 7027
+    }
+  },
+  {
+    "user": "Blake",
+    "shopping_history": {
+      "categories": {
+        "cookware": {
+          "sporty": 7,
+          "urban": 7,
+          "minimalist": 7,
+          "industrial": 7
+        },
+        "toys & games": {
+          "art deco": 3,
+          "glamorous": 3,
+          "bohemian": 3,
+          "casual": 3
+        },
+        "clothing": {
+          "classic": 11,
+          "hipster": 12,
+          "minimalist": 11,
+          "socks": 2,
+          "kids": 10,
+          "athleisure": 5,
+          "chic": 15,
+          "casual": 5,
+          "leggings": 5,
+          "gothic": 10,
+          "t-shirts": 10,
+          "men": 12,
+          "retro": 3,
+          "vintage": 3,
+          "bohemian": 3,
+          "blouses": 3,
+          "streetwear": 4,
+          "punk": 4,
+          "shirts": 2,
+          "preppy": 9,
+          "jeans": 9,
+          "women": 11,
+          "sporty": 2,
+          "ethnic": 2,
+          "pants": 2
+        },
+        "grocery & gourmet food": {
+          "modern": 9,
+          "industrial": 3
+        }
+      },
+      "average_price": 10521
+    }
+  },
+  {
+    "user": "Brandon",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "artsy": 10,
+          "chic": 10,
+          "classic": 10,
+          "hoodies": 10,
+          "kids": 22,
+          "hipster": 10,
+          "athleisure": 5,
+          "casual": 14,
+          "shorts": 11,
+          "men": 11,
+          "vintage": 7,
+          "business casual": 13,
+          "preppy": 7,
+          "lingerie": 7,
+          "women": 8,
+          "loungewear": 4,
+          "retro": 5,
+          "pajamas": 4,
+          "streetwear": 8,
+          "formal": 8,
+          "polo shirts": 8,
+          "skirts": 1,
+          "sporty": 6,
+          "bohemian": 6
+        },
+        "beauty & personal care": {
+          "chic": 20,
+          "urban": 10,
+          "minimalist": 10
+        },
+        "pet supplies": {
+          "formal": 5,
+          "urban": 5,
+          "sporty": 5,
+          "rustic": 5
+        },
+        "health & household": {
+          "retro": 2,
+          "trendy": 1,
+          "vintage": 1
+        }
+      },
+      "average_price": 7143
+    }
+  },
+  {
+    "user": "Brenda",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "classic": 28,
+          "chic": 13,
+          "streetwear": 15,
+          "pajamas": 6,
+          "women": 23,
+          "traditional": 10,
+          "preppy": 17,
+          "formal": 16,
+          "blouses": 9,
+          "sporty": 8,
+          "shorts": 8,
+          "men": 18,
+          "gothic": 1,
+          "punk": 1,
+          "retro": 1,
+          "blazers": 8,
+          "bohemian": 7,
+          "vintage": 15,
+          "business casual": 1,
+          "hoodies": 1,
+          "kids": 1,
+          "loungewear": 7,
+          "jeans": 7,
+          "ethnic": 3,
+          "athleisure": 3,
+          "socks": 3
+        },
+        "beauty & personal care": {
+          "country": 8,
+          "art deco": 8,
+          "traditional": 8,
+          "industrial": 8
+        }
+      },
+      "average_price": 7761
+    }
+  },
+  {
+    "user": "Brian",
+    "shopping_history": {
+      "categories": {
+        "shoes": {
+          "sporty": 3,
+          "casual": 3
+        },
+        "clothing": {
+          "gothic": 5,
+          "sporty": 16,
+          "vintage": 8,
+          "shoes": 5,
+          "men": 5,
+          "retro": 11,
+          "classic": 8,
+          "sweaters": 8,
+          "kids": 14,
+          "hipster": 6,
+          "chic": 3,
+          "blouses": 3,
+          "formal": 3,
+          "hoodies": 3,
+          "punk": 3,
+          "minimalist": 3,
+          "t-shirts": 3,
+          "women": 3,
+          "modern": 9,
+          "traditional": 9
+        },
+        "electronics": {
+          "smart": 2,
+          "user-friendly": 2,
+          "ergonomic": 2,
+          "advanced": 2
+        },
+        "arts, crafts & sewing": {
+          "bohemian": 14,
+          "rustic": 7,
+          "urban": 7
+        },
+        "cleaning": {
+          "modern": 5,
+          "minimalist": 5
+        }
+      },
+      "average_price": 6865
+    }
+  },
+  {
+    "user": "Brittany",
+    "shopping_history": {
+      "categories": {
+        "health & household": {
+          "sporty": 4,
+          "art deco": 4,
+          "casual": 4,
+          "industrial": 4
+        },
+        "clothing": {
+          "bohemian": 12,
+          "grunge": 12,
+          "chic": 8,
+          "hoodies": 6,
+          "kids": 20,
+          "streetwear": 6,
+          "sleepwear": 6,
+          "women": 33,
+          "vintage": 15,
+          "casual": 9,
+          "ethnic": 17,
+          "bodysuits": 9,
+          "gothic": 17,
+          "sporty": 11,
+          "t-shirts": 2,
+          "formal": 6,
+          "preppy": 6,
+          "gloves": 6,
+          "minimalist": 7,
+          "classic": 16,
+          "lingerie": 7,
+          "business casual": 9,
+          "blazers": 9,
+          "retro": 8,
+          "jackets": 8
+        },
+        "electronics": {
+          "portable": 7,
+          "high-tech": 7,
+          "sleek": 7,
+          "reliable": 7
+        }
+      },
+      "average_price": 8427
+    }
+  },
+  {
+    "user": "Bruce",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "grunge": 6,
+          "vintage": 13,
+          "hipster": 6,
+          "polo shirts": 6,
+          "kids": 25,
+          "bohemian": 8,
+          "streetwear": 19,
+          "ethnic": 36,
+          "t-shirts": 8,
+          "preppy": 9,
+          "leggings": 9,
+          "loungewear": 7,
+          "shorts": 7,
+          "women": 17,
+          "athleisure": 12,
+          "pants": 2,
+          "formal": 10,
+          "blazers": 10
+        },
+        "toys & games": {
+          "chic": 6,
+          "country": 6,
+          "casual": 6,
+          "modern": 6
+        },
+        "health & household": {
+          "art deco": 7,
+          "minimalist": 7,
+          "scandinavian": 7,
+          "glamorous": 7
+        },
+        "automotive": {
+          "chic": 1,
+          "classic": 1,
+          "formal": 1,
+          "minimalist": 1
+        },
+        "pet supplies": {
+          "casual": 5,
+          "sporty": 5,
+          "glamorous": 5,
+          "trendy": 5
+        }
+      },
+      "average_price": 9432
+    }
+  },
+  {
+    "user": "Caleb",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "grunge": 5,
+          "casual": 7,
+          "hipster": 5,
+          "shorts": 5,
+          "men": 5,
+          "minimalist": 13,
+          "classic": 14,
+          "vintage": 14,
+          "jeans": 9,
+          "women": 14,
+          "retro": 7,
+          "sweatpants": 7,
+          "punk": 6,
+          "loungewear": 4,
+          "polo shirts": 4,
+          "kids": 6
+        },
+        "garden & outdoor": {
+          "trendy": 9,
+          "sporty": 9,
+          "urban": 9,
+          "chic": 9
+        },
+        "books": {
+          "urban": 6,
+          "minimalist": 6,
+          "classic": 6,
+          "vintage": 6
+        },
+        "electronics": {
+          "sleek": 8,
+          "advanced": 21,
+          "wireless": 8,
+          "ergonomic": 10,
+          "versatile": 5
+        },
+        "cookware": {
+          "traditional": 8,
+          "chic": 8,
+          "minimalist": 8,
+          "trendy": 8
+        }
+      },
+      "average_price": 7386
+    }
+  },
+  {
+    "user": "Cameron",
+    "shopping_history": {
+      "categories": {
+        "books": {
+          "scandinavian": 10,
+          "modern": 10,
+          "art deco": 20
+        },
+        "clothing": {
+          "ethnic": 14,
+          "grunge": 8,
+          "casual": 8,
+          "scarves": 8,
+          "kids": 18,
+          "hipster": 14,
+          "sporty": 6,
+          "shorts": 6,
+          "women": 10,
+          "punk": 7,
+          "formal": 7,
+          "preppy": 7,
+          "sweatshirts": 7,
+          "retro": 3,
+          "vintage": 3,
+          "bohemian": 3,
+          "blouses": 7,
+          "athleisure": 4
+        },
+        "shoes": {
+          "retro": 3,
+          "urban": 3,
+          "country": 3,
+          "chic": 3
+        },
+        "cookware": {
+          "casual": 6,
+          "classic": 6
+        },
+        "arts, crafts & sewing": {
+          "casual": 5,
+          "classic": 10,
+          "modern": 5,
+          "glamorous": 1,
+          "art deco": 1,
+          "industrial": 1,
+          "chic": 1
+        }
+      },
+      "average_price": 8348
+    }
+  },
+  {
+    "user": "Carl",
+    "shopping_history": {
+      "categories": {
+        "electronics": {
+          "innovative": 2,
+          "high-tech": 2,
+          "durable": 2,
+          "intuitive": 2,
+          "sleek": 6,
+          "portable": 6,
+          "reliable": 6,
+          "ergonomic": 6
+        },
+        "clothing": {
+          "formal": 12,
+          "chic": 4,
+          "loungewear": 4,
+          "pajamas": 4,
+          "women": 4,
+          "sporty": 4,
+          "retro": 12,
+          "classic": 4,
+          "sweaters": 4,
+          "kids": 12,
+          "preppy": 1,
+          "athleisure": 1,
+          "business casual": 1,
+          "shorts": 1,
+          "men": 1,
+          "ethnic": 8,
+          "blouses": 8
+        },
+        "automotive": {
+          "trendy": 5,
+          "classic": 5,
+          "casual": 5,
+          "industrial": 5
+        },
+        "shoes": {
+          "retro": 3,
+          "art deco": 6,
+          "vintage": 3
+        },
+        "beauty & personal care": {
+          "chic": 12,
+          "urban": 6,
+          "minimalist": 6
+        },
+        "jewelry": {
+          "formal": 2,
+          "art deco": 2,
+          "classic": 2,
+          "trendy": 2
+        }
+      },
+      "average_price": 12647
+    }
+  },
+  {
+    "user": "Carol",
+    "shopping_history": {
+      "categories": {
+        "gifts": {
+          "scandinavian": 6,
+          "urban": 6,
+          "chic": 6,
+          "glamorous": 6
+        },
+        "electronics": {
+          "innovative": 8,
+          "ergonomic": 4,
+          "versatile": 2,
+          "wireless": 6,
+          "sleek": 6,
+          "compact": 6,
+          "durable": 6,
+          "high-tech": 12,
+          "portable": 6
+        },
+        "beauty & personal care": {
+          "trendy": 8,
+          "formal": 8,
+          "industrial": 8,
+          "vintage": 8
+        },
+        "clothing": {
+          "punk": 7,
+          "hipster": 14,
+          "artsy": 14,
+          "shirts": 7,
+          "men": 7,
+          "grunge": 7,
+          "leggings": 7,
+          "kids": 7
+        },
+        "luggage & travel gear": {
+          "casual": 8,
+          "formal": 16,
+          "minimalist": 8
+        },
+        "office products": {
+          "glamorous": 4,
+          "art deco": 4,
+          "bohemian": 4,
+          "minimalist": 4
+        },
+        "shoes": {
+          "minimalist": 10,
+          "bohemian": 10,
+          "art deco": 10,
+          "sporty": 10
+        }
+      },
+      "average_price": 9211
+    }
+  },
+  {
+    "user": "Caroline",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "bohemian": 4,
+          "chic": 2,
+          "grunge": 2,
+          "t-shirts": 2,
+          "women": 7,
+          "business casual": 7,
+          "ethnic": 3,
+          "skirts": 3,
+          "kids": 3,
+          "loungewear": 1,
+          "formal": 1,
+          "artsy": 4,
+          "sporty": 4,
+          "preppy": 4,
+          "hoodies": 4,
+          "men": 4,
+          "vintage": 5,
+          "minimalist": 5,
+          "pants": 5
+        },
+        "sports & outdoors": {
+          "urban": 2,
+          "industrial": 4,
+          "trendy": 2
+        },
+        "electronics": {
+          "portable": 3,
+          "versatile": 6,
+          "durable": 3
+        },
+        "arts, crafts & sewing": {
+          "trendy": 4,
+          "modern": 2,
+          "rustic": 2
+        },
+        "pet supplies": {
+          "rustic": 8,
+          "art deco": 16,
+          "vintage": 8
+        },
+        "cookware": {
+          "urban": 9,
+          "bohemian": 9
+        }
+      },
+      "average_price": 11723
+    }
+  },
+  {
+    "user": "Catherine",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "classic": 8,
+          "ethnic": 17,
+          "athleisure": 5,
+          "socks": 5,
+          "men": 8,
+          "hipster": 7,
+          "sporty": 7,
+          "shorts": 7,
+          "women": 12,
+          "gothic": 2,
+          "punk": 2,
+          "casual": 2,
+          "pajamas": 2,
+          "formal": 7,
+          "retro": 7,
+          "chic": 7,
+          "sweatshirts": 4,
+          "kids": 9,
+          "minimalist": 3,
+          "t-shirts": 8,
+          "business casual": 3,
+          "dresses": 3,
+          "bohemian": 5,
+          "streetwear": 5
+        },
+        "gifts": {
+          "country": 3,
+          "industrial": 3,
+          "glamorous": 3,
+          "art deco": 3
+        },
+        "toys & games": {
+          "scandinavian": 2,
+          "industrial": 2,
+          "retro": 2,
+          "traditional": 2
+        },
+        "office products": {
+          "glamorous": 7,
+          "art deco": 7,
+          "bohemian": 7,
+          "minimalist": 7
+        }
+      },
+      "average_price": 8277
+    }
+  },
+  {
+    "user": "Charles",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "ethnic": 8,
+          "preppy": 8,
+          "minimalist": 18,
+          "socks": 8,
+          "men": 8,
+          "sporty": 5,
+          "artsy": 4,
+          "streetwear": 4,
+          "casual dresses": 4,
+          "women": 15,
+          "casual": 10,
+          "vintage": 10,
+          "suits": 10,
+          "retro": 1,
+          "loungewear": 1,
+          "dress shirts": 1
+        },
+        "shoes": {
+          "classic": 9,
+          "country": 9,
+          "bohemian": 9,
+          "urban": 9
+        },
+        "office products": {
+          "retro": 6,
+          "formal": 6,
+          "minimalist": 6,
+          "urban": 6
+        },
+        "musical instruments": {
+          "sporty": 9,
+          "glamorous": 9,
+          "modern": 9,
+          "rustic": 9
+        },
+        "industrial & scientific": {
+          "retro": 1,
+          "chic": 1,
+          "art deco": 1,
+          "rustic": 1
+        },
+        "accessories": {
+          "trendy": 10,
+          "art deco": 10,
+          "country": 10,
+          "industrial": 10
+        },
+        "health & household": {
+          "bohemian": 4,
+          "formal": 4,
+          "glamorous": 4,
+          "classic": 4
+        }
+      },
+      "average_price": 8339
+    }
+  },
+  {
+    "user": "Chloe",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "athleisure": 4,
+          "minimalist": 12,
+          "loungewear": 4,
+          "tops": 4,
+          "women": 12,
+          "business casual": 1,
+          "grunge": 1,
+          "bohemian": 9,
+          "jeans": 9,
+          "men": 6,
+          "preppy": 22,
+          "streetwear": 3,
+          "t-shirts": 3,
+          "retro": 2,
+          "formal": 2,
+          "classic": 10,
+          "shorts": 2,
+          "vintage": 8,
+          "gloves": 8,
+          "kids": 8
+        },
+        "electronics": {
+          "smart": 10,
+          "intuitive": 10,
+          "reliable": 10,
+          "sleek": 10
+        },
+        "industrial & scientific": {
+          "retro": 4,
+          "chic": 4,
+          "art deco": 4,
+          "rustic": 4
+        },
+        "beauty & personal care": {
+          "chic": 8,
+          "sporty": 8,
+          "casual": 8,
+          "minimalist": 8
+        },
+        "musical instruments": {
+          "classic": 1,
+          "urban": 1,
+          "glamorous": 2
+        }
+      },
+      "average_price": 9956
+    }
+  },
+  {
+    "user": "Chris",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "gothic": 6,
+          "streetwear": 6,
+          "retro": 13,
+          "jackets": 6,
+          "kids": 12,
+          "bohemian": 1,
+          "loungewear": 6,
+          "vintage": 1,
+          "hoodies": 1,
+          "men": 1,
+          "athleisure": 4,
+          "formal": 11,
+          "casual": 4,
+          "sweatshirts": 4,
+          "ethnic": 2,
+          "blouses": 2,
+          "sleepwear": 5,
+          "women": 15,
+          "minimalist": 10,
+          "classic": 10,
+          "preppy": 10,
+          "trousers": 10
+        },
+        "musical instruments": {
+          "sporty": 3,
+          "glamorous": 3,
+          "rustic": 13,
+          "bohemian": 23,
+          "trendy": 10
+        },
+        "grocery & gourmet food": {
+          "rustic": 10,
+          "chic": 10,
+          "trendy": 10,
+          "scandinavian": 10
+        },
+        "baby products": {
+          "urban": 2,
+          "formal": 2,
+          "art deco": 2,
+          "trendy": 2
+        }
+      },
+      "average_price": 8551
+    }
+  },
+  {
+    "user": "Christina",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "grunge": 9,
+          "athleisure": 9,
+          "punk": 14,
+          "socks": 9,
+          "kids": 25,
+          "loungewear": 26,
+          "sporty": 8,
+          "retro": 17,
+          "hoodies": 8,
+          "women": 22,
+          "classic": 8,
+          "artsy": 13,
+          "gothic": 8,
+          "jeans": 8,
+          "hipster": 9,
+          "streetwear": 9,
+          "skirts": 9,
+          "vintage": 5,
+          "polos": 5,
+          "men": 5,
+          "formal": 8,
+          "chic": 8,
+          "scarves": 8,
+          "ethnic": 5,
+          "trousers": 5
+        },
+        "electronics": {
+          "reliable": 16,
+          "compact": 8,
+          "portable": 8
+        },
+        "jewelry": {
+          "chic": 12,
+          "art deco": 6,
+          "country": 6
+        },
+        "health & household": {
+          "urban": 6,
+          "retro": 6,
+          "traditional": 6,
+          "country": 6
+        }
+      },
+      "average_price": 5442
+    }
+  },
+  {
+    "user": "Christopher",
+    "shopping_history": {
+      "categories": {
+        "pet supplies": {
+          "classic": 6,
+          "chic": 6,
+          "trendy": 6,
+          "urban": 6
+        },
+        "electronics": {
+          "innovative": 5,
+          "portable": 5,
+          "advanced": 5,
+          "reliable": 5,
+          "compact": 5,
+          "durable": 5,
+          "smart": 5,
+          "ergonomic": 5
+        },
+        "clothing": {
+          "sporty": 22,
+          "classic": 16,
+          "athleisure": 4,
+          "blazers": 4,
+          "women": 10,
+          "formal": 5,
+          "grunge": 5,
+          "preppy": 5,
+          "sweaters": 5,
+          "kids": 11,
+          "streetwear": 6,
+          "hoodies": 6,
+          "casual": 6,
+          "suits": 6,
+          "men": 6,
+          "retro": 6,
+          "bohemian": 6,
+          "shorts": 6
+        },
+        "arts, crafts & sewing": {
+          "formal": 10,
+          "modern": 20,
+          "retro": 10
+        },
+        "health & household": {
+          "classic": 4,
+          "trendy": 4,
+          "vintage": 4,
+          "industrial": 4
+        }
+      },
+      "average_price": 9328
+    }
+  },
+  {
+    "user": "Claire",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "athleisure": 28,
+          "preppy": 18,
+          "hoodies": 18,
+          "women": 12,
+          "business casual": 6,
+          "hipster": 10,
+          "artsy": 6,
+          "shorts": 6,
+          "kids": 27,
+          "loungewear": 9,
+          "formal": 9,
+          "gothic": 2,
+          "sweatpants": 2,
+          "ethnic": 7,
+          "skirts": 7,
+          "grunge": 12,
+          "retro": 6,
+          "vintage": 6,
+          "bohemian": 9,
+          "blouses": 6,
+          "punk": 4,
+          "polos": 4,
+          "men": 5,
+          "shoes": 1
+        },
+        "beauty & personal care": {
+          "rustic": 1,
+          "urban": 1,
+          "classic": 1,
+          "art deco": 1
+        },
+        "musical instruments": {
+          "traditional": 5,
+          "bohemian": 5,
+          "chic": 5,
+          "scandinavian": 5
+        }
+      },
+      "average_price": 8732
+    }
+  },
+  {
+    "user": "Connor",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "preppy": 4,
+          "classic": 4,
+          "casual": 5,
+          "gloves": 4,
+          "kids": 7,
+          "artsy": 3,
+          "minimalist": 3,
+          "grunge": 3,
+          "coats": 3,
+          "vintage": 1,
+          "chic": 1,
+          "jerseys": 1,
+          "men": 1
+        },
+        "arts, crafts & sewing": {
+          "formal": 6,
+          "modern": 12,
+          "retro": 6
+        },
+        "accessories": {
+          "modern": 4,
+          "sporty": 4,
+          "formal": 4,
+          "urban": 4,
+          "classic": 4,
+          "country": 4
+        },
+        "electronics": {
+          "sleek": 10,
+          "advanced": 5,
+          "user-friendly": 5
+        },
+        "health & household": {
+          "sporty": 10,
+          "art deco": 10,
+          "casual": 10,
+          "industrial": 10
+        },
+        "automotive": {
+          "trendy": 10,
+          "classic": 10,
+          "casual": 10,
+          "industrial": 10
+        },
+        "cleaning": {
+          "modern": 4,
+          "minimalist": 4
+        }
+      },
+      "average_price": 7707
+    }
+  },
+  {
+    "user": "Crystal",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "artsy": 5,
+          "streetwear": 11,
+          "formal": 19,
+          "scarves": 5,
+          "kids": 14,
+          "classic": 1,
+          "chic": 1,
+          "pajamas": 1,
+          "women": 5,
+          "bohemian": 9,
+          "vintage": 9,
+          "blazers": 9,
+          "men": 9,
+          "minimalist": 4,
+          "gothic": 4,
+          "retro": 8,
+          "jeans": 4,
+          "punk": 5,
+          "sweaters": 5,
+          "sporty": 4,
+          "ethnic": 4,
+          "jackets": 4
+        },
+        "electronics": {
+          "versatile": 3,
+          "compact": 13,
+          "sleek": 13,
+          "wireless": 13,
+          "durable": 10
+        },
+        "industrial & scientific": {
+          "art deco": 8,
+          "chic": 8,
+          "minimalist": 8,
+          "scandinavian": 8
+        },
+        "grocery & gourmet food": {
+          "traditional": 7,
+          "retro": 7,
+          "rustic": 7,
+          "industrial": 7
+        }
+      },
+      "average_price": 5433
+    }
+  },
+  {
+    "user": "Cynthia",
+    "shopping_history": {
+      "categories": {
+        "tools & home improvement": {
+          "modern": 4,
+          "vintage": 4,
+          "bohemian": 4,
+          "country": 4
+        },
+        "electronics": {
+          "sleek": 13,
+          "user-friendly": 10,
+          "efficient": 10,
+          "advanced": 10,
+          "high-tech": 3,
+          "portable": 6
+        },
+        "clothing": {
+          "retro": 6,
+          "formal": 19,
+          "classic": 14,
+          "shorts": 6,
+          "men": 17,
+          "vintage": 15,
+          "hipster": 2,
+          "chic": 8,
+          "lingerie": 2,
+          "women": 10,
+          "ethnic": 6,
+          "casual": 6,
+          "underwear": 14,
+          "artsy": 5,
+          "polos": 5,
+          "gothic": 8,
+          "loungewear": 8,
+          "pajamas": 8,
+          "grunge": 5,
+          "minimalist": 5,
+          "punk": 5,
+          "t-shirts": 5,
+          "kids": 13,
+          "preppy": 8
+        }
+      },
+      "average_price": 6309
+    }
+  },
+  {
+    "user": "Daniel",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "formal": 8,
+          "casual": 4,
+          "sweatshirts": 4,
+          "kids": 21,
+          "business casual": 10,
+          "punk": 10,
+          "chic": 10,
+          "skirts": 10,
+          "vintage": 7,
+          "streetwear": 7,
+          "preppy": 7,
+          "coats": 7
+        },
+        "health & household": {
+          "art deco": 9,
+          "minimalist": 9,
+          "scandinavian": 9,
+          "glamorous": 9
+        },
+        "books": {
+          "vintage": 9,
+          "traditional": 9,
+          "industrial": 9,
+          "classic": 9
+        },
+        "electronics": {
+          "innovative": 10,
+          "portable": 16,
+          "advanced": 10,
+          "reliable": 10,
+          "durable": 6,
+          "versatile": 14,
+          "efficient": 14,
+          "ergonomic": 16
+        },
+        "beauty & personal care": {
+          "country": 9,
+          "art deco": 9,
+          "traditional": 9,
+          "industrial": 9
+        },
+        "luggage & travel gear": {
+          "glamorous": 7,
+          "scandinavian": 7,
+          "formal": 7,
+          "vintage": 7
+        }
+      },
+      "average_price": 4979
+    }
+  },
+  {
+    "user": "David",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "classic": 13,
+          "casual": 17,
+          "streetwear": 17,
+          "gloves": 8,
+          "kids": 25,
+          "formal": 6,
+          "gothic": 20,
+          "ethnic": 14,
+          "pajamas": 6,
+          "women": 6,
+          "preppy": 5,
+          "shirts": 5,
+          "men": 7,
+          "dresses": 9,
+          "business casual": 8,
+          "bohemian": 9,
+          "skirts": 8,
+          "athleisure": 1,
+          "chic": 2,
+          "suits": 1,
+          "loungewear": 1,
+          "vintage": 1,
+          "hoodies": 1
+        },
+        "toys & games": {
+          "bohemian": 18,
+          "casual": 9,
+          "formal": 9
+        },
+        "electronics": {
+          "sleek": 5,
+          "compact": 5,
+          "smart": 5,
+          "versatile": 5
+        },
+        "books": {
+          "traditional": 5,
+          "chic": 5,
+          "casual": 5,
+          "bohemian": 5
+        }
+      },
+      "average_price": 7897
+    }
+  },
+  {
+    "user": "Deborah",
+    "shopping_history": {
+      "categories": {
+        "electronics": {
+          "portable": 10,
+          "wireless": 8,
+          "advanced": 10,
+          "versatile": 8,
+          "efficient": 2,
+          "sleek": 2
+        },
+        "clothing": {
+          "streetwear": 12,
+          "grunge": 16,
+          "classic": 17,
+          "underwear": 2,
+          "men": 16,
+          "athleisure": 5,
+          "minimalist": 15,
+          "loungewear": 15,
+          "tops": 5,
+          "women": 16,
+          "sweatpants": 10,
+          "formal": 13,
+          "retro": 2,
+          "chic": 6,
+          "sweatshirts": 2,
+          "kids": 6,
+          "shoes": 10,
+          "gothic": 1,
+          "lingerie": 1,
+          "scarves": 4,
+          "sporty": 4,
+          "preppy": 4,
+          "punk": 4,
+          "shirts": 4
+        }
+      },
+      "average_price": 8004
+    }
+  },
+  {
+    "user": "Dennis",
+    "shopping_history": {
+      "categories": {
+        "cleaning": {
+          "minimalist": 8,
+          "bohemian": 8
+        },
+        "grocery & gourmet food": {
+          "traditional": 9,
+          "retro": 9,
+          "rustic": 9,
+          "industrial": 9
+        },
+        "electronics": {
+          "reliable": 9,
+          "compact": 9,
+          "intuitive": 9,
+          "user-friendly": 14,
+          "innovative": 10,
+          "efficient": 5
+        },
+        "clothing": {
+          "retro": 7,
+          "casual": 3,
+          "sporty": 3,
+          "blazers": 3,
+          "men": 3,
+          "ethnic": 3,
+          "punk": 3,
+          "preppy": 13,
+          "t-shirts": 3,
+          "kids": 3,
+          "formal": 9,
+          "bodysuits": 5,
+          "women": 9,
+          "loungewear": 4,
+          "sleepwear": 4
+        },
+        "jewelry": {
+          "formal": 2,
+          "art deco": 2,
+          "classic": 2,
+          "trendy": 2
+        },
+        "arts, crafts & sewing": {
+          "art deco": 4,
+          "sporty": 4,
+          "chic": 4,
+          "rustic": 4
+        }
+      },
+      "average_price": 5757
+    }
+  },
+  {
+    "user": "Diana",
+    "shopping_history": {
+      "categories": {
+        "beauty & personal care": {
+          "country": 9,
+          "art deco": 9,
+          "traditional": 9,
+          "industrial": 9
+        },
+        "electronics": {
+          "wireless": 9,
+          "advanced": 9,
+          "reliable": 9,
+          "user-friendly": 9,
+          "high-tech": 10,
+          "versatile": 10,
+          "sleek": 10,
+          "smart": 10
+        },
+        "clothing": {
+          "sporty": 10,
+          "hipster": 3,
+          "athleisure": 3,
+          "socks": 3,
+          "kids": 25,
+          "ethnic": 3,
+          "formal": 7,
+          "hoodies": 3,
+          "business casual": 4,
+          "chic": 4,
+          "jerseys": 4,
+          "men": 4,
+          "punk": 4,
+          "preppy": 4,
+          "sweatshirts": 4,
+          "streetwear": 6,
+          "loungewear": 6,
+          "grunge": 15,
+          "underwear": 6,
+          "classic": 9,
+          "casual": 9,
+          "polo shirts": 9
+        },
+        "automotive": {
+          "formal": 1,
+          "bohemian": 1,
+          "sporty": 1,
+          "classic": 1
+        }
+      },
+      "average_price": 6895
+    }
+  },
+  {
+    "user": "Diane",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "streetwear": 17,
+          "ethnic": 9,
+          "preppy": 9,
+          "leggings": 9,
+          "kids": 19,
+          "loungewear": 5,
+          "punk": 1,
+          "business casual": 1,
+          "sleepwear": 5,
+          "women": 5,
+          "sporty": 8,
+          "grunge": 8,
+          "underwear": 8,
+          "men": 8,
+          "formal": 14,
+          "minimalist": 10,
+          "chic": 10,
+          "jeans": 10,
+          "retro": 4
+        },
+        "electronics": {
+          "innovative": 5,
+          "ergonomic": 5,
+          "intuitive": 5,
+          "user-friendly": 5,
+          "durable": 6,
+          "smart": 6,
+          "efficient": 6,
+          "high-tech": 6
+        },
+        "shoes": {
+          "minimalist": 4,
+          "vintage": 4,
+          "traditional": 8
+        },
+        "grocery & gourmet food": {
+          "classic": 4,
+          "trendy": 4,
+          "country": 4,
+          "chic": 4
+        },
+        "cookware": {
+          "bohemian": 18,
+          "urban": 9,
+          "trendy": 9
+        }
+      },
+      "average_price": 9507
+    }
+  },
+  {
+    "user": "Donna",
+    "shopping_history": {
+      "categories": {
+        "shoes": {
+          "scandinavian": 5,
+          "traditional": 5,
+          "art deco": 5,
+          "chic": 5
+        },
+        "clothing": {
+          "minimalist": 7,
+          "hipster": 7,
+          "ethnic": 7,
+          "blouses": 7,
+          "women": 8,
+          "retro": 1,
+          "vintage": 1,
+          "classic": 1,
+          "sweatpants": 1,
+          "formal": 1,
+          "athleisure": 1,
+          "streetwear": 6,
+          "pants": 1,
+          "kids": 2,
+          "preppy": 10,
+          "t-shirts": 5,
+          "men": 5,
+          "industrial": 8,
+          "modern": 8,
+          "artsy": 1,
+          "loungewear": 1,
+          "gothic": 1,
+          "polo shirts": 1
+        },
+        "grocery & gourmet food": {
+          "vintage": 4,
+          "minimalist": 4,
+          "urban": 4,
+          "glamorous": 4
+        },
+        "home": {
+          "modern": 10,
+          "industrial": 10,
+          "minimalist": 10,
+          "urban": 10
+        },
+        "garden & outdoor": {
+          "industrial": 9,
+          "urban": 9,
+          "formal": 9,
+          "country": 9
+        }
+      },
+      "average_price": 8954
+    }
+  },
+  {
+    "user": "Doris",
+    "shopping_history": {
+      "categories": {
+        "health & household": {
+          "bohemian": 9,
+          "art deco": 9,
+          "rustic": 9,
+          "urban": 9
+        },
+        "clothing": {
+          "traditional": 5,
+          "scandinavian": 5,
+          "chic": 20,
+          "athleisure": 8,
+          "formal": 15,
+          "t-shirts": 13,
+          "kids": 30,
+          "sporty": 10,
+          "streetwear": 10,
+          "loungewear": 17,
+          "jackets": 10,
+          "scarves": 7,
+          "preppy": 10,
+          "casual": 5,
+          "sweatpants": 5,
+          "women": 5,
+          "ethnic": 5,
+          "punk": 5
+        },
+        "electronics": {
+          "compact": 6,
+          "durable": 8,
+          "ergonomic": 3,
+          "versatile": 5,
+          "advanced": 5,
+          "wireless": 5
+        },
+        "cookware": {
+          "classic": 3,
+          "minimalist": 3,
+          "chic": 3,
+          "bohemian": 3
+        }
+      },
+      "average_price": 5201
+    }
+  },
+  {
+    "user": "Dorothy",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "chic": 8,
+          "loungewear": 2,
+          "gothic": 2,
+          "hoodies": 2,
+          "women": 8,
+          "business casual": 14,
+          "streetwear": 4,
+          "jeans": 4,
+          "kids": 4,
+          "punk": 6,
+          "classic": 6,
+          "vintage": 6,
+          "jerseys": 6,
+          "men": 10,
+          "formal": 6,
+          "dresses": 6,
+          "grunge": 4,
+          "casual": 4,
+          "hipster": 4,
+          "shorts": 4
+        },
+        "beauty & personal care": {
+          "minimalist": 10,
+          "casual": 10,
+          "chic": 10,
+          "glamorous": 10
+        },
+        "grocery & gourmet food": {
+          "trendy": 5,
+          "industrial": 5,
+          "minimalist": 5,
+          "bohemian": 5
+        },
+        "home": {
+          "formal": 2,
+          "country": 2,
+          "vintage": 2,
+          "retro": 2
+        },
+        "office products": {
+          "art deco": 3,
+          "minimalist": 3,
+          "sporty": 6
+        },
+        "industrial & scientific": {
+          "sporty": 8,
+          "scandinavian": 8,
+          "casual": 8,
+          "modern": 8
+        }
+      },
+      "average_price": 5821
+    }
+  },
+  {
+    "user": "Douglas",
+    "shopping_history": {
+      "categories": {
+        "cookware": {
+          "country": 7,
+          "vintage": 7,
+          "glamorous": 7,
+          "formal": 11,
+          "urban": 4,
+          "trendy": 4,
+          "rustic": 4
+        },
+        "clothing": {
+          "loungewear": 7,
+          "sporty": 6,
+          "retro": 15,
+          "hoodies": 5,
+          "women": 14,
+          "formal": 2,
+          "jerseys": 2,
+          "men": 2,
+          "hipster": 6,
+          "business casual": 9,
+          "chic": 6,
+          "pajamas": 6,
+          "kids": 9,
+          "punk": 8,
+          "athleisure": 8,
+          "bodysuits": 8,
+          "gothic": 3,
+          "ethnic": 3,
+          "socks": 3,
+          "bohemian": 2,
+          "trousers": 1
+        },
+        "books": {
+          "industrial": 8,
+          "traditional": 8,
+          "scandinavian": 8,
+          "sporty": 8
+        },
+        "accessories": {
+          "trendy": 18,
+          "chic": 9,
+          "classic": 9
+        }
+      },
+      "average_price": 5971
+    }
+  },
+  {
+    "user": "Dylan",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "punk": 9,
+          "grunge": 10,
+          "artsy": 5,
+          "skirts": 5,
+          "women": 5,
+          "minimalist": 12,
+          "vintage": 8,
+          "gothic": 8,
+          "hats": 8,
+          "kids": 12,
+          "preppy": 5,
+          "streetwear": 5,
+          "hoodies": 5,
+          "men": 5,
+          "casual": 4,
+          "shorts": 4
+        },
+        "electronics": {
+          "sleek": 19,
+          "advanced": 6,
+          "user-friendly": 16,
+          "wireless": 3,
+          "innovative": 6,
+          "durable": 7,
+          "compact": 7
+        },
+        "luggage & travel gear": {
+          "sporty": 10,
+          "classic": 5,
+          "traditional": 5
+        },
+        "garden & outdoor": {
+          "minimalist": 8,
+          "industrial": 16,
+          "traditional": 8
+        },
+        "automotive": {
+          "chic": 4,
+          "urban": 2,
+          "country": 2
+        }
+      },
+      "average_price": 8639
+    }
+  },
+  {
+    "user": "Edward",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "streetwear": 7,
+          "bohemian": 7,
+          "sporty": 13,
+          "blazers": 7,
+          "women": 26,
+          "grunge": 11,
+          "formal": 7,
+          "chic": 4,
+          "casual dresses": 4,
+          "hipster": 7,
+          "athleisure": 7,
+          "casual": 7,
+          "shorts": 7,
+          "men": 7,
+          "punk": 24,
+          "vintage": 8,
+          "minimalist": 8,
+          "t-shirts": 8,
+          "polo shirts": 3,
+          "kids": 12,
+          "business casual": 7,
+          "pajamas": 7,
+          "retro": 9,
+          "preppy": 9,
+          "sweatshirts": 9
+        },
+        "musical instruments": {
+          "retro": 3,
+          "country": 3,
+          "minimalist": 3,
+          "rustic": 3
+        },
+        "jewelry": {
+          "casual": 4,
+          "industrial": 4,
+          "traditional": 8
+        },
+        "electronics": {
+          "reliable": 9,
+          "compact": 9,
+          "intuitive": 9,
+          "user-friendly": 9
+        }
+      },
+      "average_price": 7814
+    }
+  },
+  {
+    "user": "Elizabeth",
+    "shopping_history": {
+      "categories": {
+        "electronics": {
+          "reliable": 12,
+          "compact": 6,
+          "portable": 6
+        },
+        "clothing": {
+          "artsy": 14,
+          "streetwear": 4,
+          "formal": 4,
+          "skirts": 4,
+          "kids": 5,
+          "gothic": 15,
+          "vintage": 13,
+          "pants": 10,
+          "women": 14,
+          "bohemian": 1,
+          "classic": 1,
+          "business casual": 4,
+          "sweatshirts": 1,
+          "preppy": 3,
+          "punk": 3,
+          "blazers": 3,
+          "men": 8,
+          "sporty": 1,
+          "grunge": 1,
+          "chic": 1,
+          "t-shirts": 1,
+          "minimalist": 5,
+          "casual": 5,
+          "shoes": 5,
+          "hipster": 3,
+          "retro": 3,
+          "sweatpants": 3
+        },
+        "home": {
+          "scandinavian": 1,
+          "bohemian": 1,
+          "glamorous": 1,
+          "industrial": 1
+        },
+        "industrial & scientific": {
+          "formal": 20,
+          "trendy": 10,
+          "urban": 10
+        }
+      },
+      "average_price": 13982
+    }
+  },
+  {
+    "user": "Emily",
+    "shopping_history": {
+      "categories": {
+        "electronics": {
+          "high-tech": 2,
+          "advanced": 2,
+          "intuitive": 9,
+          "ergonomic": 9,
+          "compact": 7,
+          "efficient": 7
+        },
+        "arts, crafts & sewing": {
+          "country": 7,
+          "rustic": 7,
+          "classic": 7,
+          "chic": 7
+        },
+        "clothing": {
+          "preppy": 1,
+          "ethnic": 1,
+          "formal": 6,
+          "underwear": 1,
+          "men": 16,
+          "chic": 9,
+          "loungewear": 15,
+          "gothic": 9,
+          "hoodies": 9,
+          "women": 10,
+          "sporty": 1,
+          "retro": 6,
+          "dress shirts": 1,
+          "business casual": 10,
+          "vintage": 10,
+          "classic": 10,
+          "suits": 10,
+          "jerseys": 5
+        },
+        "jewelry": {
+          "glamorous": 7,
+          "modern": 14,
+          "traditional": 7
+        },
+        "automotive": {
+          "industrial": 7,
+          "classic": 7,
+          "casual": 7,
+          "urban": 7
+        }
+      },
+      "average_price": 8753
+    }
+  },
+  {
+    "user": "Emma",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "sporty": 8,
+          "bohemian": 3,
+          "business casual": 13,
+          "shorts": 3,
+          "men": 10,
+          "punk": 10,
+          "loungewear": 3,
+          "grunge": 3,
+          "gloves": 3,
+          "kids": 10,
+          "classic": 7,
+          "vintage": 17,
+          "jerseys": 7,
+          "sweaters": 5,
+          "hipster": 6,
+          "streetwear": 6,
+          "casual": 8,
+          "t-shirts": 6,
+          "women": 14,
+          "retro": 16,
+          "hoodies": 8,
+          "artsy": 2,
+          "coats": 2
+        },
+        "electronics": {
+          "intuitive": 2,
+          "versatile": 2,
+          "advanced": 4
+        },
+        "shoes": {
+          "scandinavian": 7,
+          "traditional": 7,
+          "art deco": 7,
+          "chic": 7
+        },
+        "sports & outdoors": {
+          "modern": 2,
+          "urban": 4,
+          "country": 2
+        }
+      },
+      "average_price": 9489
+    }
+  },
+  {
+    "user": "Ethan",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "athleisure": 22,
+          "gothic": 14,
+          "bohemian": 5,
+          "scarves": 5,
+          "kids": 23,
+          "sporty": 9,
+          "artsy": 17,
+          "leggings": 9,
+          "preppy": 17,
+          "retro": 9,
+          "hipster": 18,
+          "hats": 9,
+          "business casual": 18,
+          "shorts": 8,
+          "men": 35,
+          "grunge": 9,
+          "loungewear": 9,
+          "punk": 9,
+          "hoodies": 18,
+          "formal": 8,
+          "vintage": 9,
+          "blazers": 8,
+          "ethnic": 1,
+          "t-shirts": 1
+        },
+        "electronics": {
+          "smart": 2,
+          "intuitive": 2,
+          "high-tech": 2,
+          "efficient": 2
+        },
+        "automotive": {
+          "industrial": 8,
+          "classic": 8,
+          "casual": 8,
+          "urban": 8
+        }
+      },
+      "average_price": 6079
+    }
+  },
+  {
+    "user": "Eugene",
+    "shopping_history": {
+      "categories": {
+        "accessories": {
+          "urban": 4,
+          "scandinavian": 4
+        },
+        "clothing": {
+          "vintage": 3,
+          "ethnic": 4,
+          "retro": 30,
+          "jeans": 3,
+          "kids": 24,
+          "business casual": 4,
+          "bohemian": 4,
+          "tops": 4,
+          "women": 15,
+          "athleisure": 1,
+          "formal": 7,
+          "blazers": 1,
+          "chic": 6,
+          "sweatshirts": 6,
+          "preppy": 8,
+          "artsy": 8,
+          "sporty": 15,
+          "pants": 8,
+          "streetwear": 7,
+          "scarves": 7,
+          "casual": 10,
+          "hipster": 10,
+          "skirts": 10
+        },
+        "electronics": {
+          "reliable": 4,
+          "sleek": 4,
+          "efficient": 4,
+          "innovative": 4,
+          "durable": 7,
+          "versatile": 7,
+          "advanced": 7,
+          "user-friendly": 7
+        }
+      },
+      "average_price": 5857
+    }
+  },
+  {
+    "user": "Evelyn",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "grunge": 9,
+          "hipster": 18,
+          "punk": 9,
+          "polos": 9,
+          "men": 10,
+          "sporty": 13,
+          "gothic": 4,
+          "artsy": 4,
+          "leggings": 7,
+          "kids": 16,
+          "vintage": 17,
+          "ethnic": 11,
+          "suits": 8,
+          "women": 8,
+          "chic": 1,
+          "classic": 1,
+          "shorts": 1,
+          "bohemian": 3,
+          "retro": 3,
+          "streetwear": 6,
+          "pants": 6,
+          "formal": 3,
+          "hoodies": 3
+        },
+        "gifts": {
+          "country": 4,
+          "classic": 4,
+          "urban": 4,
+          "bohemian": 4
+        },
+        "garden & outdoor": {
+          "industrial": 6,
+          "urban": 6,
+          "formal": 6,
+          "country": 6
+        },
+        "health & household": {
+          "art deco": 10,
+          "minimalist": 10,
+          "scandinavian": 10,
+          "glamorous": 10
+        }
+      },
+      "average_price": 9115
+    }
+  },
+  {
+    "user": "Frank",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "bohemian": 7,
+          "classic": 7,
+          "business casual": 7,
+          "sweatshirts": 7,
+          "kids": 11,
+          "vintage": 4,
+          "ethnic": 4,
+          "retro": 8,
+          "jeans": 4,
+          "hipster": 12,
+          "athleisure": 8,
+          "casual": 12,
+          "shorts": 8,
+          "men": 8,
+          "skirts": 4,
+          "women": 4
+        },
+        "electronics": {
+          "user-friendly": 4,
+          "intuitive": 4,
+          "ergonomic": 4,
+          "advanced": 4,
+          "versatile": 1,
+          "smart": 2,
+          "durable": 1
+        },
+        "accessories": {
+          "rustic": 1,
+          "bohemian": 1,
+          "formal": 1,
+          "country": 1
+        },
+        "health & household": {
+          "urban": 2,
+          "retro": 2,
+          "traditional": 2,
+          "country": 2
+        },
+        "garden & outdoor": {
+          "bohemian": 8,
+          "country": 4,
+          "industrial": 4
+        },
+        "musical instruments": {
+          "retro": 8,
+          "vintage": 8,
+          "urban": 8,
+          "sporty": 8
+        }
+      },
+      "average_price": 10454
+    }
+  },
+  {
+    "user": "Gabriel",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "hipster": 33,
+          "grunge": 11,
+          "artsy": 10,
+          "leggings": 17,
+          "kids": 21,
+          "punk": 1,
+          "polos": 1,
+          "men": 7,
+          "gothic": 2,
+          "casual": 4,
+          "gloves": 2,
+          "bohemian": 7,
+          "retro": 7,
+          "sporty": 2,
+          "athleisure": 2,
+          "socks": 2,
+          "business casual": 6,
+          "formal": 6,
+          "suits": 6,
+          "vintage": 14,
+          "dress shirts": 7,
+          "women": 7
+        },
+        "musical instruments": {
+          "sporty": 4,
+          "glamorous": 4,
+          "rustic": 4,
+          "bohemian": 4
+        },
+        "shoes": {
+          "country": 8,
+          "minimalist": 8,
+          "urban": 8,
+          "classic": 8
+        },
+        "accessories": {
+          "traditional": 8,
+          "retro": 8,
+          "bohemian": 8,
+          "formal": 8
+        }
+      },
+      "average_price": 7945
+    }
+  },
+  {
+    "user": "Gary",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "preppy": 9,
+          "grunge": 9,
+          "athleisure": 9,
+          "scarves": 9,
+          "kids": 9
+        },
+        "electronics": {
+          "innovative": 12,
+          "smart": 4,
+          "versatile": 4,
+          "user-friendly": 4,
+          "intuitive": 3,
+          "compact": 3,
+          "efficient": 3,
+          "ergonomic": 3,
+          "advanced": 16,
+          "sleek": 8
+        },
+        "automotive": {
+          "modern": 4,
+          "chic": 4,
+          "scandinavian": 4,
+          "bohemian": 4
+        },
+        "health & household": {
+          "casual": 5,
+          "trendy": 9,
+          "country": 5,
+          "classic": 5,
+          "retro": 8,
+          "vintage": 4
+        },
+        "musical instruments": {
+          "classic": 10,
+          "urban": 10,
+          "glamorous": 20
+        },
+        "home": {
+          "sporty": 20,
+          "minimalist": 10,
+          "casual": 10
+        },
+        "grocery & gourmet food": {
+          "classic": 10,
+          "trendy": 10,
+          "country": 10,
+          "chic": 10
+        }
+      },
+      "average_price": 7988
+    }
+  },
+  {
+    "user": "George",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "loungewear": 6,
+          "grunge": 6,
+          "streetwear": 6,
+          "sweatpants": 6,
+          "women": 10,
+          "casual": 5,
+          "chic": 9,
+          "vintage": 9,
+          "sweaters": 5,
+          "kids": 10,
+          "athleisure": 9,
+          "tops": 4,
+          "preppy": 1,
+          "punk": 1,
+          "hipster": 1,
+          "t-shirts": 1,
+          "men": 2,
+          "formal": 1,
+          "sporty": 6,
+          "retro": 1,
+          "shirts": 1,
+          "business casual": 5,
+          "dresses": 5
+        },
+        "shoes": {
+          "sporty": 10,
+          "casual": 10
+        },
+        "garden & outdoor": {
+          "minimalist": 9,
+          "industrial": 18,
+          "traditional": 9
+        },
+        "cookware": {
+          "urban": 1,
+          "bohemian": 1
+        },
+        "beauty & personal care": {
+          "chic": 2,
+          "urban": 1,
+          "minimalist": 1
+        }
+      },
+      "average_price": 9510
+    }
+  },
+  {
+    "user": "Grace",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "bohemian": 6,
+          "business casual": 6,
+          "formal": 6,
+          "skirts": 6,
+          "women": 6,
+          "retro": 5,
+          "sporty": 5,
+          "ethnic": 15,
+          "jackets": 5,
+          "kids": 5,
+          "chic": 4,
+          "vintage": 4,
+          "classic": 14,
+          "shorts": 4,
+          "men": 14,
+          "athleisure": 10,
+          "socks": 10
+        },
+        "electronics": {
+          "high-tech": 4,
+          "advanced": 20,
+          "intuitive": 4,
+          "ergonomic": 18,
+          "innovative": 21,
+          "versatile": 13,
+          "user-friendly": 20
+        },
+        "musical instruments": {
+          "trendy": 18,
+          "sporty": 9,
+          "urban": 9
+        },
+        "toys & games": {
+          "formal": 6,
+          "country": 6,
+          "rustic": 6,
+          "retro": 6
+        }
+      },
+      "average_price": 6246
+    }
+  },
+  {
+    "user": "Gregory",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "streetwear": 14,
+          "sporty": 9,
+          "casual": 22,
+          "t-shirts": 17,
+          "women": 10,
+          "preppy": 8,
+          "minimalist": 8,
+          "men": 8,
+          "chic": 1,
+          "athleisure": 1,
+          "vintage": 1,
+          "tops": 1,
+          "punk": 7,
+          "hipster": 7,
+          "bohemian": 7,
+          "shorts": 7,
+          "kids": 12,
+          "gothic": 5,
+          "dresses": 5
+        },
+        "electronics": {
+          "intuitive": 4,
+          "high-tech": 4,
+          "reliable": 4,
+          "wireless": 4
+        },
+        "jewelry": {
+          "casual": 4,
+          "industrial": 4,
+          "traditional": 8
+        },
+        "home": {
+          "formal": 2,
+          "industrial": 2,
+          "traditional": 2,
+          "scandinavian": 2
+        },
+        "industrial & scientific": {
+          "glamorous": 4,
+          "sporty": 4,
+          "rustic": 4,
+          "vintage": 4
+        },
+        "baby products": {
+          "industrial": 16,
+          "art deco": 8,
+          "classic": 8
+        }
+      },
+      "average_price": 9134
+    }
+  },
+  {
+    "user": "Hannah",
+    "shopping_history": {
+      "categories": {
+        "arts, crafts & sewing": {
+          "trendy": 12,
+          "modern": 6,
+          "rustic": 6
+        },
+        "cookware": {
+          "art deco": 7,
+          "trendy": 7,
+          "modern": 7,
+          "rustic": 7
+        },
+        "musical instruments": {
+          "classic": 1,
+          "urban": 1,
+          "glamorous": 2
+        },
+        "clothing": {
+          "hipster": 22,
+          "business casual": 22,
+          "formal": 10,
+          "suits": 10,
+          "men": 13,
+          "vintage": 2,
+          "ethnic": 12,
+          "trousers": 2,
+          "women": 2,
+          "artsy": 8,
+          "grunge": 2,
+          "pants": 2,
+          "kids": 12,
+          "jackets": 10,
+          "classic": 3,
+          "shirts": 3
+        },
+        "jewelry": {
+          "glamorous": 3,
+          "modern": 3,
+          "sporty": 3,
+          "art deco": 3
+        },
+        "sports & outdoors": {
+          "chic": 9,
+          "urban": 9,
+          "glamorous": 9,
+          "scandinavian": 9
+        }
+      },
+      "average_price": 6823
+    }
+  },
+  {
+    "user": "Harold",
+    "shopping_history": {
+      "categories": {
+        "beauty & personal care": {
+          "rustic": 1,
+          "casual": 1,
+          "art deco": 1,
+          "modern": 1
+        },
+        "clothing": {
+          "streetwear": 9,
+          "retro": 13,
+          "sporty": 9,
+          "scarves": 9,
+          "kids": 9,
+          "preppy": 5,
+          "casual": 10,
+          "blazers": 7,
+          "women": 18,
+          "hipster": 1,
+          "classic": 1,
+          "vintage": 1,
+          "blouses": 1,
+          "minimalist": 2,
+          "gothic": 20,
+          "jeans": 2,
+          "grunge": 8,
+          "dress shirts": 8,
+          "punk": 2
+        },
+        "sports & outdoors": {
+          "modern": 9,
+          "retro": 9,
+          "sporty": 9,
+          "chic": 9
+        },
+        "industrial & scientific": {
+          "retro": 5,
+          "scandinavian": 5,
+          "modern": 5,
+          "country": 5
+        },
+        "electronics": {
+          "innovative": 3,
+          "user-friendly": 3,
+          "compact": 3,
+          "portable": 3
+        }
+      },
+      "average_price": 9488
+    }
+  },
+  {
+    "user": "Heather",
+    "shopping_history": {
+      "categories": {
+        "pet supplies": {
+          "minimalist": 6,
+          "country": 6,
+          "art deco": 6,
+          "modern": 6
+        },
+        "clothing": {
+          "punk": 20,
+          "retro": 19,
+          "grunge": 16,
+          "blouses": 9,
+          "women": 19,
+          "ethnic": 4,
+          "shorts": 3,
+          "formal": 9,
+          "blazers": 7,
+          "streetwear": 8,
+          "classic": 8,
+          "socks": 8,
+          "kids": 9,
+          "dresses": 1
+        },
+        "musical instruments": {
+          "retro": 2,
+          "vintage": 2,
+          "urban": 2,
+          "sporty": 2
+        },
+        "accessories": {
+          "country": 18,
+          "chic": 9,
+          "retro": 9
+        },
+        "electronics": {
+          "wireless": 12,
+          "innovative": 2,
+          "sleek": 2,
+          "versatile": 8,
+          "reliable": 16
+        }
+      },
+      "average_price": 7359
+    }
+  },
+  {
+    "user": "Helen",
+    "shopping_history": {
+      "categories": {
+        "books": {
+          "trendy": 14,
+          "casual": 7,
+          "formal": 7
+        },
+        "musical instruments": {
+          "classic": 2,
+          "urban": 2,
+          "glamorous": 4
+        },
+        "clothing": {
+          "streetwear": 5,
+          "loungewear": 17,
+          "artsy": 5,
+          "shorts": 5,
+          "men": 5,
+          "ethnic": 18,
+          "gothic": 18,
+          "casual": 10,
+          "pants": 10,
+          "kids": 18,
+          "retro": 4,
+          "bohemian": 4,
+          "minimalist": 8,
+          "hoodies": 4,
+          "punk": 16,
+          "trousers": 8,
+          "women": 16,
+          "sporty": 4,
+          "polo shirts": 4,
+          "grunge": 8,
+          "bodysuits": 8
+        },
+        "gifts": {
+          "country": 9,
+          "industrial": 9,
+          "glamorous": 9,
+          "art deco": 9
+        },
+        "electronics": {
+          "intuitive": 8,
+          "advanced": 4,
+          "smart": 4
+        }
+      },
+      "average_price": 7221
+    }
+  },
+  {
+    "user": "Henry",
+    "shopping_history": {
+      "categories": {
+        "cleaning": {
+          "art deco": 1,
+          "rustic": 1
+        },
+        "clothing": {
+          "ethnic": 8,
+          "casual": 15,
+          "business casual": 15,
+          "gloves": 8,
+          "kids": 23,
+          "retro": 21,
+          "preppy": 6,
+          "grunge": 17,
+          "t-shirts": 6,
+          "men": 6,
+          "chic": 4,
+          "minimalist": 8,
+          "bohemian": 4,
+          "hats": 4,
+          "classic": 7,
+          "hoodies": 7,
+          "vintage": 4,
+          "blouses": 4,
+          "formal": 6,
+          "blazers": 6,
+          "women": 11,
+          "athleisure": 5,
+          "dresses": 5
+        },
+        "electronics": {
+          "portable": 4,
+          "high-tech": 4,
+          "innovative": 4,
+          "smart": 4
+        },
+        "cookware": {
+          "chic": 8,
+          "vintage": 8
+        }
+      },
+      "average_price": 7720
+    }
+  },
+  {
+    "user": "Isaac",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "vintage": 22,
+          "business casual": 18,
+          "bodysuits": 9,
+          "women": 18,
+          "punk": 9,
+          "retro": 15,
+          "grunge": 9,
+          "blouses": 15,
+          "bohemian": 7,
+          "formal": 7,
+          "blazers": 7,
+          "men": 7,
+          "minimalist": 6,
+          "kids": 6
+        },
+        "electronics": {
+          "efficient": 6,
+          "wireless": 6,
+          "ergonomic": 8,
+          "sleek": 6,
+          "versatile": 3,
+          "portable": 5,
+          "durable": 5,
+          "intuitive": 5
+        },
+        "arts, crafts & sewing": {
+          "bohemian": 2,
+          "rustic": 1,
+          "urban": 1
+        },
+        "shoes": {
+          "art deco": 8,
+          "bohemian": 8,
+          "rustic": 4,
+          "chic": 4
+        }
+      },
+      "average_price": 9788
+    }
+  },
+  {
+    "user": "Jack",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "minimalist": 12,
+          "streetwear": 16,
+          "casual": 27,
+          "shorts": 8,
+          "women": 8,
+          "classic": 10,
+          "ethnic": 14,
+          "suits": 4,
+          "men": 14,
+          "athleisure": 9,
+          "formal": 9,
+          "sweatshirts": 9,
+          "kids": 15,
+          "business casual": 1,
+          "sporty": 1,
+          "gothic": 1,
+          "preppy": 5,
+          "t-shirts": 5,
+          "jerseys": 5,
+          "grunge": 6,
+          "polo shirts": 6
+        },
+        "books": {
+          "art deco": 4,
+          "urban": 4,
+          "glamorous": 4,
+          "casual": 4
+        },
+        "electronics": {
+          "smart": 8,
+          "intuitive": 8,
+          "high-tech": 8,
+          "efficient": 8
+        },
+        "arts, crafts & sewing": {
+          "country": 3,
+          "rustic": 3,
+          "classic": 3,
+          "chic": 3
+        }
+      },
+      "average_price": 9245
+    }
+  },
+  {
+    "user": "Jacob",
+    "shopping_history": {
+      "categories": {
+        "cookware": {
+          "glamorous": 9,
+          "chic": 9,
+          "industrial": 9,
+          "sporty": 9
+        },
+        "electronics": {
+          "ergonomic": 9,
+          "portable": 16,
+          "advanced": 9,
+          "compact": 9,
+          "user-friendly": 7,
+          "innovative": 14,
+          "efficient": 7,
+          "intuitive": 7,
+          "high-tech": 14
+        },
+        "clothing": {
+          "chic": 3,
+          "athleisure": 1,
+          "formal": 1,
+          "t-shirts": 8,
+          "kids": 10,
+          "classic": 7,
+          "casual": 7,
+          "streetwear": 7,
+          "gloves": 7,
+          "preppy": 7,
+          "punk": 9,
+          "hipster": 7,
+          "men": 7,
+          "business casual": 2,
+          "skirts": 2
+        },
+        "jewelry": {
+          "classic": 10,
+          "chic": 5,
+          "minimalist": 5
+        },
+        "musical instruments": {
+          "traditional": 10,
+          "vintage": 10,
+          "retro": 10,
+          "classic": 10
+        }
+      },
+      "average_price": 5436
+    }
+  },
+  {
+    "user": "James",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "vintage": 10,
+          "bohemian": 10,
+          "punk": 19,
+          "lingerie": 10,
+          "women": 29,
+          "grunge": 1,
+          "business casual": 1,
+          "ethnic": 1,
+          "polos": 1,
+          "men": 4,
+          "sporty": 8,
+          "formal": 14,
+          "chic": 8,
+          "t-shirts": 11,
+          "kids": 8,
+          "hipster": 10,
+          "artsy": 6,
+          "trousers": 6,
+          "retro": 7,
+          "streetwear": 4,
+          "skirts": 4,
+          "classic": 3,
+          "minimalist": 3,
+          "gothic": 9,
+          "casual": 9,
+          "sweatpants": 9
+        },
+        "baby products": {
+          "minimalist": 2,
+          "classic": 2,
+          "vintage": 2,
+          "art deco": 2
+        },
+        "electronics": {
+          "efficient": 2,
+          "durable": 11,
+          "smart": 1,
+          "wireless": 10,
+          "sleek": 10,
+          "compact": 10
+        }
+      },
+      "average_price": 8097
+    }
+  },
+  {
+    "user": "Janet",
+    "shopping_history": {
+      "categories": {
+        "luggage & travel gear": {
+          "modern": 10,
+          "scandinavian": 5,
+          "chic": 5
+        },
+        "electronics": {
+          "portable": 3,
+          "efficient": 3,
+          "high-tech": 3,
+          "reliable": 5,
+          "durable": 2,
+          "wireless": 10,
+          "intuitive": 6,
+          "smart": 4
+        },
+        "books": {
+          "rustic": 4,
+          "urban": 2,
+          "country": 2
+        },
+        "clothing": {
+          "artsy": 12,
+          "streetwear": 20,
+          "shorts": 10,
+          "kids": 10,
+          "classic": 2,
+          "retro": 2,
+          "dresses": 2,
+          "women": 2
+        },
+        "toys & games": {
+          "industrial": 10,
+          "trendy": 10,
+          "casual": 10,
+          "glamorous": 10,
+          "bohemian": 12,
+          "classic": 6,
+          "country": 6
+        },
+        "beauty & personal care": {
+          "sporty": 8,
+          "minimalist": 8,
+          "modern": 8,
+          "urban": 8
+        }
+      },
+      "average_price": 10310
+    }
+  },
+  {
+    "user": "Jason",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "classic": 19,
+          "formal": 13,
+          "gothic": 10,
+          "lingerie": 18,
+          "women": 31,
+          "ethnic": 3,
+          "preppy": 18,
+          "business casual": 17,
+          "skirts": 3,
+          "vintage": 9,
+          "grunge": 13,
+          "streetwear": 7,
+          "hoodies": 7,
+          "men": 10,
+          "sporty": 12,
+          "artsy": 10,
+          "sleepwear": 9,
+          "casual": 1,
+          "jeans": 1,
+          "retro": 3,
+          "shirts": 3,
+          "punk": 6,
+          "jackets": 6,
+          "kids": 6
+        },
+        "electronics": {
+          "intuitive": 4,
+          "reliable": 2,
+          "user-friendly": 2,
+          "efficient": 1,
+          "versatile": 1,
+          "ergonomic": 2
+        }
+      },
+      "average_price": 5323
+    }
+  },
+  {
+    "user": "Jeffrey",
+    "shopping_history": {
+      "categories": {
+        "grocery & gourmet food": {
+          "country": 6,
+          "retro": 6,
+          "modern": 6,
+          "trendy": 6
+        },
+        "clothing": {
+          "artsy": 3,
+          "punk": 6,
+          "classic": 8,
+          "lingerie": 13,
+          "women": 19,
+          "vintage": 18,
+          "hipster": 10,
+          "chic": 10,
+          "streetwear": 4,
+          "bohemian": 1,
+          "sporty": 1,
+          "blazers": 1,
+          "shoes": 3,
+          "men": 3,
+          "retro": 5,
+          "sweatpants": 5
+        },
+        "shoes": {
+          "casual": 1,
+          "vintage": 1,
+          "retro": 1,
+          "classic": 1
+        },
+        "office products": {
+          "retro": 3,
+          "formal": 3,
+          "minimalist": 3,
+          "urban": 3
+        },
+        "electronics": {
+          "advanced": 20,
+          "intuitive": 10,
+          "ergonomic": 13,
+          "smart": 6,
+          "portable": 3
+        }
+      },
+      "average_price": 11751
+    }
+  },
+  {
+    "user": "Jennifer",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "loungewear": 12,
+          "punk": 15,
+          "ethnic": 5,
+          "jeans": 5,
+          "men": 22,
+          "classic": 3,
+          "chic": 13,
+          "streetwear": 19,
+          "pajamas": 3,
+          "women": 12,
+          "bohemian": 9,
+          "sporty": 19,
+          "blazers": 9,
+          "hipster": 20,
+          "artsy": 17,
+          "shirts": 10,
+          "blouses": 10,
+          "kids": 10,
+          "shorts": 7
+        },
+        "industrial & scientific": {
+          "industrial": 1,
+          "art deco": 1,
+          "rustic": 1,
+          "trendy": 1
+        },
+        "electronics": {
+          "intuitive": 10,
+          "advanced": 10,
+          "user-friendly": 10,
+          "portable": 10
+        },
+        "jewelry": {
+          "formal": 8,
+          "art deco": 8,
+          "classic": 8,
+          "trendy": 8
+        },
+        "shoes": {
+          "classic": 3,
+          "country": 3,
+          "bohemian": 3,
+          "urban": 3
+        }
+      },
+      "average_price": 7028
+    }
+  },
+  {
+    "user": "Jessica",
+    "shopping_history": {
+      "categories": {
+        "books": {
+          "traditional": 5,
+          "chic": 5,
+          "casual": 5,
+          "bohemian": 5
+        },
+        "clothing": {
+          "chic": 6,
+          "business casual": 6,
+          "athleisure": 6,
+          "scarves": 6,
+          "kids": 18,
+          "loungewear": 8,
+          "artsy": 8,
+          "formal": 10,
+          "blouses": 8,
+          "women": 8,
+          "streetwear": 8,
+          "casual": 6,
+          "polo shirts": 2,
+          "gothic": 6,
+          "vintage": 6,
+          "t-shirts": 6,
+          "preppy": 4,
+          "classic": 4,
+          "gloves": 4
+        },
+        "electronics": {
+          "innovative": 1,
+          "user-friendly": 1,
+          "compact": 1,
+          "portable": 1
+        },
+        "cookware": {
+          "bohemian": 2,
+          "urban": 1,
+          "trendy": 1
+        },
+        "musical instruments": {
+          "glamorous": 9,
+          "urban": 9,
+          "formal": 9,
+          "rustic": 9
+        },
+        "industrial & scientific": {
+          "retro": 18,
+          "country": 9,
+          "traditional": 9
+        }
+      },
+      "average_price": 6448
+    }
+  },
+  {
+    "user": "John",
+    "shopping_history": {
+      "categories": {
+        "arts, crafts & sewing": {
+          "bohemian": 8,
+          "rustic": 4,
+          "urban": 4
+        },
+        "clothing": {
+          "sporty": 13,
+          "classic": 7,
+          "formal": 15,
+          "underwear": 7,
+          "men": 8,
+          "hipster": 6,
+          "grunge": 13,
+          "socks": 6,
+          "kids": 13,
+          "business casual": 3,
+          "coats": 1,
+          "loungewear": 8,
+          "blouses": 7,
+          "women": 7,
+          "retro": 6,
+          "ethnic": 6,
+          "preppy": 6,
+          "t-shirts": 6,
+          "artsy": 1,
+          "hoodies": 1
+        },
+        "health & household": {
+          "bohemian": 18,
+          "traditional": 6
+        },
+        "electronics": {
+          "durable": 2,
+          "versatile": 2,
+          "advanced": 2,
+          "user-friendly": 2
+        },
+        "baby products": {
+          "rustic": 4,
+          "sporty": 4,
+          "formal": 4,
+          "urban": 4
+        }
+      },
+      "average_price": 11579
+    }
+  },
+  {
+    "user": "Jonathan",
+    "shopping_history": {
+      "categories": {
+        "beauty & personal care": {
+          "industrial": 10,
+          "country": 5,
+          "casual": 5
+        },
+        "clothing": {
+          "ethnic": 15,
+          "vintage": 8,
+          "punk": 8,
+          "dresses": 15,
+          "kids": 18,
+          "sporty": 23,
+          "classic": 6,
+          "gothic": 6,
+          "underwear": 6,
+          "men": 6,
+          "hipster": 10,
+          "streetwear": 17,
+          "pants": 10,
+          "loungewear": 7,
+          "blazers": 7,
+          "women": 14,
+          "preppy": 14
+        },
+        "electronics": {
+          "wireless": 4,
+          "efficient": 4,
+          "reliable": 4,
+          "compact": 12,
+          "innovative": 8,
+          "user-friendly": 8,
+          "portable": 8
+        },
+        "tools & home improvement": {
+          "modern": 5,
+          "industrial": 10,
+          "vintage": 5
+        },
+        "toys & games": {
+          "industrial": 2,
+          "classic": 2,
+          "bohemian": 2,
+          "chic": 2
+        }
+      },
+      "average_price": 8700
+    }
+  },
+  {
+    "user": "Joseph",
+    "shopping_history": {
+      "categories": {
+        "garden & outdoor": {
+          "minimalist": 6,
+          "industrial": 12,
+          "traditional": 6
+        },
+        "clothing": {
+          "hipster": 20,
+          "bohemian": 4,
+          "punk": 13,
+          "shorts": 4,
+          "women": 15,
+          "streetwear": 9,
+          "casual": 13,
+          "t-shirts": 9,
+          "classic": 8,
+          "vintage": 4,
+          "jerseys": 4,
+          "men": 4,
+          "loungewear": 5,
+          "coats": 5,
+          "kids": 11,
+          "grunge": 4,
+          "retro": 2,
+          "athleisure": 6,
+          "dresses": 6,
+          "sporty": 2,
+          "sweaters": 2
+        },
+        "tools & home improvement": {
+          "minimalist": 9,
+          "trendy": 18,
+          "sporty": 9
+        },
+        "electronics": {
+          "efficient": 2,
+          "durable": 2,
+          "wireless": 2,
+          "reliable": 2
+        }
+      },
+      "average_price": 7862
+    }
+  },
+  {
+    "user": "Joshua",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "grunge": 14,
+          "retro": 9,
+          "athleisure": 9,
+          "dresses": 13,
+          "women": 26,
+          "hipster": 4,
+          "loungewear": 4,
+          "formal": 5,
+          "t-shirts": 10,
+          "men": 10,
+          "streetwear": 11,
+          "suits": 5,
+          "ethnic": 10,
+          "business casual": 16,
+          "casual dresses": 1,
+          "vintage": 7,
+          "minimalist": 7,
+          "pants": 7,
+          "preppy": 12
+        },
+        "baby products": {
+          "urban": 3,
+          "formal": 3,
+          "art deco": 3,
+          "trendy": 3
+        },
+        "electronics": {
+          "high-tech": 5,
+          "versatile": 5,
+          "sleek": 5,
+          "smart": 5,
+          "innovative": 8,
+          "advanced": 4,
+          "efficient": 4
+        }
+      },
+      "average_price": 7560
+    }
+  },
+  {
+    "user": "Joyce",
+    "shopping_history": {
+      "categories": {
+        "electronics": {
+          "durable": 8,
+          "portable": 8,
+          "intuitive": 8,
+          "smart": 8,
+          "sleek": 5,
+          "advanced": 10,
+          "wireless": 5
+        },
+        "clothing": {
+          "preppy": 3,
+          "punk": 3,
+          "hipster": 16,
+          "t-shirts": 11,
+          "men": 11,
+          "retro": 12,
+          "bohemian": 26,
+          "chic": 8,
+          "sweatpants": 8,
+          "women": 22,
+          "sporty": 1,
+          "classic": 1,
+          "gothic": 9,
+          "underwear": 1,
+          "streetwear": 12,
+          "vintage": 16,
+          "kids": 8,
+          "sleepwear": 8,
+          "grunge": 7,
+          "casual": 7,
+          "shorts": 7,
+          "ethnic": 2,
+          "jeans": 2,
+          "skirts": 4
+        }
+      },
+      "average_price": 6440
+    }
+  },
+  {
+    "user": "Julia",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "retro": 3,
+          "hipster": 8,
+          "streetwear": 10,
+          "skirts": 3,
+          "women": 17,
+          "classic": 24,
+          "formal": 15,
+          "athleisure": 14,
+          "pajamas": 10,
+          "kids": 24,
+          "loungewear": 9,
+          "punk": 16,
+          "artsy": 9,
+          "sweatshirts": 9,
+          "ethnic": 4,
+          "jeans": 14,
+          "preppy": 10,
+          "minimalist": 10,
+          "bohemian": 7,
+          "suits": 7,
+          "men": 7,
+          "business casual": 5,
+          "sweaters": 5
+        },
+        "electronics": {
+          "ergonomic": 3,
+          "advanced": 3,
+          "smart": 3,
+          "versatile": 3
+        },
+        "cookware": {
+          "casual": 5,
+          "classic": 5
+        },
+        "health & household": {
+          "casual": 5,
+          "trendy": 5,
+          "country": 5,
+          "classic": 5
+        }
+      },
+      "average_price": 6969
+    }
+  },
+  {
+    "user": "Justin",
+    "shopping_history": {
+      "categories": {
+        "cookware": {
+          "formal": 7,
+          "industrial": 7
+        },
+        "clothing": {
+          "chic": 5,
+          "minimalist": 3,
+          "bohemian": 5,
+          "hats": 3,
+          "kids": 15,
+          "classic": 17,
+          "hipster": 20,
+          "punk": 7,
+          "shoes": 7,
+          "men": 11,
+          "business casual": 12,
+          "vintage": 10,
+          "underwear": 10,
+          "grunge": 6,
+          "t-shirts": 9,
+          "women": 9,
+          "formal": 2,
+          "sweaters": 2,
+          "sporty": 7,
+          "artsy": 7,
+          "casual": 4,
+          "shorts": 4
+        },
+        "shoes": {
+          "retro": 4,
+          "urban": 4,
+          "country": 4,
+          "chic": 4
+        },
+        "electronics": {
+          "sleek": 8,
+          "durable": 8,
+          "reliable": 8,
+          "compact": 8
+        }
+      },
+      "average_price": 6267
+    }
+  },
+  {
+    "user": "Karen",
+    "shopping_history": {
+      "categories": {
+        "health & household": {
+          "urban": 2,
+          "retro": 2,
+          "traditional": 2,
+          "country": 2
+        },
+        "clothing": {
+          "artsy": 6,
+          "athleisure": 3,
+          "casual": 3,
+          "sweatpants": 3,
+          "women": 19,
+          "gothic": 6,
+          "ethnic": 11,
+          "sporty": 24,
+          "hoodies": 14,
+          "formal": 5,
+          "kids": 5,
+          "modern": 5,
+          "traditional": 5,
+          "minimalist": 10,
+          "retro": 10,
+          "t-shirts": 10,
+          "preppy": 3,
+          "men": 3
+        },
+        "office products": {
+          "rustic": 7,
+          "urban": 7,
+          "bohemian": 7,
+          "retro": 7
+        },
+        "cookware": {
+          "formal": 4,
+          "industrial": 4
+        },
+        "arts, crafts & sewing": {
+          "rustic": 2,
+          "minimalist": 2,
+          "retro": 2,
+          "glamorous": 2
+        }
+      },
+      "average_price": 8225
+    }
+  },
+  {
+    "user": "Katherine",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "classic": 17,
+          "bohemian": 12,
+          "grunge": 24,
+          "pants": 7,
+          "women": 7,
+          "minimalist": 8,
+          "business casual": 11,
+          "hipster": 3,
+          "jeans": 8,
+          "kids": 27,
+          "preppy": 18,
+          "streetwear": 18,
+          "t-shirts": 10,
+          "men": 18,
+          "punk": 13,
+          "jackets": 8,
+          "sporty": 10,
+          "underwear": 9,
+          "retro": 11,
+          "gothic": 10,
+          "socks": 10,
+          "vintage": 1
+        },
+        "shoes": {
+          "scandinavian": 3,
+          "traditional": 3,
+          "art deco": 3,
+          "chic": 3
+        },
+        "industrial & scientific": {
+          "formal": 10,
+          "trendy": 5,
+          "urban": 5
+        }
+      },
+      "average_price": 8044
+    }
+  },
+  {
+    "user": "Kayla",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "gothic": 6,
+          "classic": 6,
+          "business casual": 6,
+          "skirts": 6,
+          "women": 10,
+          "loungewear": 4,
+          "artsy": 4,
+          "streetwear": 4,
+          "tops": 4,
+          "traditional": 9,
+          "scandinavian": 9,
+          "punk": 10,
+          "formal": 18,
+          "preppy": 18,
+          "sweatshirts": 10,
+          "kids": 18,
+          "vintage": 8,
+          "gloves": 8
+        },
+        "sports & outdoors": {
+          "sporty": 9,
+          "retro": 9,
+          "vintage": 9,
+          "rustic": 9
+        },
+        "electronics": {
+          "advanced": 6,
+          "compact": 3,
+          "wireless": 3
+        },
+        "garden & outdoor": {
+          "vintage": 6,
+          "classic": 6,
+          "rustic": 6,
+          "country": 6
+        },
+        "toys & games": {
+          "formal": 1,
+          "country": 1,
+          "rustic": 1,
+          "retro": 1
+        },
+        "accessories": {
+          "glamorous": 8,
+          "formal": 8,
+          "country": 8,
+          "industrial": 8
+        }
+      },
+      "average_price": 6439
+    }
+  },
+  {
+    "user": "Keith",
+    "shopping_history": {
+      "categories": {
+        "electronics": {
+          "sleek": 6,
+          "durable": 6,
+          "compact": 10,
+          "user-friendly": 6,
+          "reliable": 8,
+          "portable": 4
+        },
+        "automotive": {
+          "chic": 7,
+          "classic": 7,
+          "formal": 7,
+          "minimalist": 7
+        },
+        "clothing": {
+          "loungewear": 5,
+          "formal": 5,
+          "gothic": 15,
+          "sweatpants": 5,
+          "women": 5,
+          "vintage": 30,
+          "pajamas": 10,
+          "kids": 20,
+          "chic": 8,
+          "retro": 8,
+          "classic": 10,
+          "grunge": 10,
+          "coats": 10
+        },
+        "office products": {
+          "art deco": 2,
+          "minimalist": 2,
+          "sporty": 4
+        },
+        "books": {
+          "industrial": 3,
+          "traditional": 3,
+          "scandinavian": 3,
+          "sporty": 3
+        },
+        "luggage & travel gear": {
+          "casual": 10,
+          "modern": 10,
+          "sporty": 10,
+          "classic": 10
+        }
+      },
+      "average_price": 4729
+    }
+  },
+  {
+    "user": "Kelly",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "athleisure": 26,
+          "formal": 4,
+          "shorts": 10,
+          "kids": 17,
+          "business casual": 8,
+          "vintage": 22,
+          "classic": 7,
+          "underwear": 7,
+          "retro": 27,
+          "streetwear": 18,
+          "lingerie": 9,
+          "women": 21,
+          "gothic": 1,
+          "loungewear": 4,
+          "polos": 1,
+          "men": 7,
+          "preppy": 6,
+          "blouses": 6,
+          "hipster": 6,
+          "casual": 6,
+          "hoodies": 9,
+          "skirts": 3
+        },
+        "toys & games": {
+          "art deco": 1,
+          "glamorous": 1,
+          "bohemian": 1,
+          "casual": 1
+        },
+        "beauty & personal care": {
+          "chic": 8,
+          "sporty": 8,
+          "casual": 8,
+          "minimalist": 8
+        }
+      },
+      "average_price": 7710
+    }
+  },
+  {
+    "user": "Kevin",
+    "shopping_history": {
+      "categories": {
+        "electronics": {
+          "high-tech": 23,
+          "versatile": 7,
+          "sleek": 11,
+          "smart": 3,
+          "innovative": 28,
+          "efficient": 12,
+          "reliable": 8
+        },
+        "clothing": {
+          "hipster": 6,
+          "bohemian": 6,
+          "preppy": 6,
+          "jeans": 6,
+          "men": 6,
+          "streetwear": 5,
+          "business casual": 3,
+          "artsy": 3,
+          "blazers": 3,
+          "women": 6,
+          "ethnic": 2,
+          "grunge": 2,
+          "casual": 2,
+          "scarves": 2,
+          "kids": 7,
+          "gothic": 3,
+          "retro": 3,
+          "loungewear": 6,
+          "blouses": 3,
+          "formal": 2,
+          "punk": 2,
+          "sweaters": 2,
+          "athleisure": 3,
+          "minimalist": 3,
+          "tops": 3
+        }
+      },
+      "average_price": 15975
+    }
+  },
+  {
+    "user": "Kimberly",
+    "shopping_history": {
+      "categories": {
+        "accessories": {
+          "country": 6,
+          "chic": 6,
+          "scandinavian": 6,
+          "trendy": 6,
+          "industrial": 1,
+          "urban": 1,
+          "sporty": 1,
+          "traditional": 1
+        },
+        "electronics": {
+          "user-friendly": 4,
+          "efficient": 12,
+          "sleek": 4,
+          "ergonomic": 4,
+          "portable": 10,
+          "innovative": 10,
+          "high-tech": 10,
+          "versatile": 10,
+          "intuitive": 16,
+          "durable": 8
+        },
+        "automotive": {
+          "chic": 2,
+          "urban": 1,
+          "country": 1
+        },
+        "musical instruments": {
+          "bohemian": 20,
+          "trendy": 10,
+          "rustic": 10
+        },
+        "clothing": {
+          "retro": 3,
+          "hipster": 3,
+          "formal": 3,
+          "hoodies": 3,
+          "kids": 3
+        },
+        "sport": {
+          "urban": 8,
+          "casual": 8
+        },
+        "jewelry": {
+          "formal": 8,
+          "art deco": 8,
+          "classic": 8,
+          "trendy": 8
+        }
+      },
+      "average_price": 7056
+    }
+  },
+  {
+    "user": "Kyle",
+    "shopping_history": {
+      "categories": {
+        "shoes": {
+          "country": 3,
+          "casual": 3
+        },
+        "beauty & personal care": {
+          "retro": 10,
+          "modern": 10,
+          "vintage": 10,
+          "sporty": 10
+        },
+        "clothing": {
+          "chic": 18,
+          "athleisure": 9,
+          "formal": 9,
+          "t-shirts": 9,
+          "kids": 23,
+          "classic": 4,
+          "business casual": 1,
+          "retro": 1,
+          "coats": 10,
+          "artsy": 6,
+          "shirts": 3,
+          "men": 3,
+          "loungewear": 17,
+          "vintage": 9,
+          "ethnic": 4,
+          "streetwear": 4,
+          "blazers": 4,
+          "women": 4,
+          "minimalist": 4,
+          "grunge": 4,
+          "sweatshirts": 4
+        },
+        "toys & games": {
+          "vintage": 1,
+          "rustic": 1,
+          "classic": 1,
+          "traditional": 1
+        },
+        "accessories": {
+          "rustic": 9,
+          "bohemian": 9,
+          "formal": 9,
+          "country": 9
+        }
+      },
+      "average_price": 7723
+    }
+  },
+  {
+    "user": "Laura",
+    "shopping_history": {
+      "categories": {
+        "electronics": {
+          "user-friendly": 23,
+          "sleek": 7,
+          "versatile": 7,
+          "wireless": 9,
+          "smart": 9,
+          "innovative": 11,
+          "high-tech": 4,
+          "portable": 2
+        },
+        "clothing": {
+          "sporty": 8,
+          "streetwear": 15,
+          "loungewear": 8,
+          "jackets": 8,
+          "kids": 8,
+          "chic": 3,
+          "grunge": 3,
+          "artsy": 3,
+          "suits": 10,
+          "women": 10,
+          "ethnic": 7,
+          "classic": 7
+        },
+        "jewelry": {
+          "chic": 16,
+          "art deco": 7,
+          "country": 7,
+          "retro": 2,
+          "bohemian": 2,
+          "classic": 2
+        },
+        "cleaning": {
+          "art deco": 8,
+          "rustic": 8
+        },
+        "musical instruments": {
+          "sporty": 3,
+          "glamorous": 3,
+          "modern": 3,
+          "rustic": 3
+        }
+      },
+      "average_price": 6209
+    }
+  },
+  {
+    "user": "Lauren",
+    "shopping_history": {
+      "categories": {
+        "clothing": {
+          "retro": 7,
+          "hipster": 7,
+          "vintage": 8,
+          "blouses": 7,
+          "kids": 11,
+          "athleisure": 1,
+          "loungewear": 1,
+          "jeans": 1,
+          "men": 1,
+          "business casual": 6,
+          "bohemian": 4,
+          "ethnic": 4,
+          "skirts": 4,
+          "preppy": 2,
+          "streetwear": 2,
+          "dress shirts": 2,
+          "women": 2
+        },
+        "sport": {
+          "urban": 8,
+          "casual": 8
+        },
+        "home": {
+          "rustic": 7,
+          "minimalist": 7
+        },
+        "beauty & personal care": {
+          "casual": 10,
+          "sporty": 5,
+          "scandinavian": 5
+        },
+        "electronics": {
+          "sleek": 5,
+          "user-friendly": 5,
+          "efficient": 5,
+          "advanced": 5
+        },
+        "gifts": {
+          "scandinavian": 9,
+          "urban": 9,
+          "chic": 9,
+          "glamorous": 9
+        },
+        "accessories": {
+          "formal": 5,
+          "urban": 5,
+          "classic": 5,
+          "country": 5
+        }
+      },
+      "average_price": 8386
+    }
+  }
+]
