@@ -1,7 +1,7 @@
 import json
 import torch
 import openai
-from model import get_rec, process_response
+from recommend.RecommendFunctions.model import get_rec, process_response
 
 
 
@@ -132,8 +132,8 @@ class RecommendProducts():
         avg_price = shopping_history["average_price"]
 
         for product in self.products:
-            product_category = product["category"]["type"].lower()
-            product_styles = [style.lower() for style in product["category"]["style"]]
+            product_category = product.category.name.lower()
+            product_styles = [style.name.lower() for style in product.styles.all()]
 
             if product_category in category_preferences:
                 preferred_styles = category_preferences[product_category]
@@ -192,9 +192,9 @@ shopping_history = {
 """
 
  
-rec = RecommendProducts()
-#print(rec.get_category_context())
-categories_of_interest = rec.getCategoryRec(query=query)
+#rec = RecommendProducts()
+#rec.get_category_context()
+#categories_of_interest = rec.getCategoryRec(query=query)
 # rec_products = rec.shopping_history_recommend(user1_shopping_history)
 # print(rec_products[:10])
 # print(len(rec_products))

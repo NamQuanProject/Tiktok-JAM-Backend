@@ -1,6 +1,9 @@
 from django.urls import path, include
-import views
+from . import views
+
 
 urlpatterns = [
-    path("get-rec",  views.getRec)
+    path("get-AIrec/",  views.AI_recommend_products),
+    path("get-checkboxrec/", views.checkbox_category_recommend),
+    path("get-historyrec/", views.shopping_history_recommend)
 ]
