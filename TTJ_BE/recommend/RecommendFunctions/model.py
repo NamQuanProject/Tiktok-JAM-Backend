@@ -2,7 +2,7 @@ from openai import OpenAI
 
 def get_rec(prompt):
     client = OpenAI(
-    api_key = "LL-031FguAC85lLnzFBS9QRmoG79VgRxJtiKbqNNmW0m8TCMD4g4WT5UdMsnThbjIAk",
+    api_key = "LL-3is84tAdyYhd4IwXiz47pJpPDkF6kYTxij4GEJuNMc9ktJqrZpaGTiyljTButnVY",
     base_url = "https://api.llama-api.com")
     response = client.chat.completions.create(
         model="llama3-70b",
