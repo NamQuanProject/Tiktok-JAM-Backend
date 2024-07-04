@@ -2,3 +2,5 @@ transformers
 torch
 Django
 accelerate
+djangorestframework
+django-cors-headers
