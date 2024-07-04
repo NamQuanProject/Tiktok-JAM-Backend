@@ -51,7 +51,7 @@ class RecommendProducts():
         categories_of_interest = json.loads(text_response)
         return categories_of_interest
 
-    def recommend_products(self, categories):
+    def AI_recommend_products(self, AI_categories):
         recommended_products = []
         
         for product in self.products:
@@ -59,12 +59,12 @@ class RecommendProducts():
             product_style = product["category"]["style"]
             product_style = [product.lower() for product in product_style]
             
-            if product_category in [category.lower() for category in categories["categories"]]:
-                if categories["styles"]:
-                    intersection = set(categories["styles"]).intersection(product_style)
-                    if len(intersection) / len(categories["styles"]) > 0.5:
-                        if categories["price"]:
-                            if (categories["price"] - 5) * 100 < product["priceCents"] < (categories["price"] + 5) * 100:
+            if product_category in [category.lower() for category in AI_categories["categories"]]:
+                if AI_categories["styles"]:
+                    intersection = set(AI_categories["styles"]).intersection(product_style)
+                    if len(intersection) / len(AI_categories["styles"]) > 0.5:
+                        if AI_categories["price"]:
+                            if (AI_categories["price"] - 5) * 100 < product["priceCents"] < (AI_categories["price"] + 5) * 100:
                                 recommended_products.append(product)
                         else: 
                             recommended_products.append(product)
@@ -77,7 +77,18 @@ class RecommendProducts():
         return recommended_products
 
 
+    def checkbox_category_recommend(categories):
+        pass
 
+"""
+check_box_category:
+{
+    low_price:
+    high_price:
+    category: str
+    style : [str, str, ...]
+}
+"""
 
 
 query = "I want to buy gifts as clothing for my boy friend"
