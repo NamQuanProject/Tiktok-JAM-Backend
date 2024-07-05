@@ -68,15 +68,46 @@ def AI_recommend_products(request):
     return JsonResponse({"error": "Invalid HTTP method"}, status=400)
 
 def get_user_shopping_history(user):
-    shopping_history = {
-        "categories": {
-            "clothing": {"vintage": 25, "kids": 10, "casual": 20, "sporty": 15, "formal": 5},
-            "gifts": {"trendy": 30, "classic": 10, "chic": 5},
-            "electronics": {"user-friendly": 15, "compact": 10, "sleek": 5},
-            "beauty & personal care": {"trendy": 20, "industrial": 10},
-            "home": {"modern": 10, "urban": 5}
+    shopping_history=  {
+      "categories": {
+        "electronics": {
+          "high-tech": 23,
+          "versatile": 7,
+          "sleek": 11,
+          "smart": 3,
+          "innovative": 28,
+          "efficient": 12,
+          "reliable": 8
         },
-        "average_price": 20
+        "clothing": {
+          "hipster": 6,
+          "bohemian": 6,
+          "preppy": 6,
+          "jeans": 6,
+          "men": 6,
+          "streetwear": 5,
+          "business casual": 3,
+          "artsy": 3,
+          "blazers": 3,
+          "women": 6,
+          "ethnic": 2,
+          "grunge": 2,
+          "casual": 2,
+          "scarves": 2,
+          "kids": 7,
+          "gothic": 3,
+          "retro": 3,
+          "loungewear": 6,
+          "blouses": 3,
+          "formal": 2,
+          "punk": 2,
+          "sweaters": 2,
+          "athleisure": 3,
+          "minimalist": 3,
+          "tops": 3
+        }
+      },
+      "average_price": 16
     }
     return shopping_history
 
