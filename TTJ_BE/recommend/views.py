@@ -193,7 +193,7 @@ def shopping_history_recommend(request):
                     "name": product.name,
                     "category": product.category.name,
                     "styles": [style.name for style in product.styles.all()],
-                    "priceCents": product.priceCents,
+                    "price_cents": product.priceCents,
                     "rating_stars": product.rating['stars'],
                 }
                 for product in recommended_products
