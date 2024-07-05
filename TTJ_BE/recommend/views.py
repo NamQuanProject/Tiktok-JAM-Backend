@@ -5,6 +5,7 @@ from product.models import Product, Category, Style
 from user.models import User
 from recommend.RecommendFunctions.recommend import RecommendProducts
 import json
+import random
 
 # Create your views here.
 
@@ -70,6 +71,7 @@ def AI_recommend_products(request):
 
 def get_user_shopping_history(user):
     shopping_history=  {
+      "new_user" : True,
       "categories": {
         "electronics": {
           "high-tech": 23,
@@ -165,25 +167,34 @@ def shopping_history_recommend(request):
     if request.method == "POST":
         shopping_history = get_user_shopping_history(request.user)
         recommended_products = []
-        category_preferences = shopping_history.get("categories", {})
-        avg_price = shopping_history.get("average_price", 0)
-
         products = Product.objects.all()
+        if shopping_history["new_user"]:
+            highest_rated_products = sorted(products, key=lambda x: x.rating["stars"], reverse=True)
+            top_n = 20
+            highest_rated_products = highest_rated_products[:top_n]
+            num_recommendations = 10  # Number of random recommendations to return
+            recommended_products = random.sample(highest_rated_products, min(len(highest_rated_products), num_recommendations))
 
-        for product in products:
-            product_category = product.category.name.lower()
-            product_styles = [style.name.lower() for style in product.styles.all()]
+        
+        else:
+            category_preferences = shopping_history.get("categories", {})
+            avg_price = shopping_history.get("average_price", 0)
+            
 
-            if product_category in category_preferences:
-                preferred_styles = category_preferences[product_category]
-                top_styles = sorted(preferred_styles, key=preferred_styles.get, reverse=True)
-                intersection = set(top_styles).intersection(product_styles)
-                if intersection:
-                    if (avg_price - 10) * 100 < product.priceCents < (avg_price + 5000) * 100:
-                        recommended_products.append(product)
+            for product in products:
+                product_category = product.category.name.lower()
+                product_styles = [style.name.lower() for style in product.styles.all()]
 
-        recommended_products = sorted(recommended_products, key=lambda x: x.rating["stars"], reverse=True)
-        print(len(recommended_products))
+                if product_category in category_preferences:
+                    preferred_styles = category_preferences[product_category]
+                    top_styles = sorted(preferred_styles, key=preferred_styles.get, reverse=True)
+                    intersection = set(top_styles).intersection(product_styles)
+                    if intersection:
+                        if (avg_price - 10) * 100 < product.priceCents < (avg_price + 5000) * 100:
+                            recommended_products.append(product)
+
+            recommended_products = sorted(recommended_products, key=lambda x: x.rating["stars"], reverse=True)
+            print(len(recommended_products))
         recommended_products_data = [
                 {   
                     "id" : product.id,
