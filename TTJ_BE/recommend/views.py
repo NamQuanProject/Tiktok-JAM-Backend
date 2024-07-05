@@ -53,14 +53,15 @@ def AI_recommend_products(request):
 
         # Convert to a list of dictionaries for JSON response
         recommended_products_data = [
-            {
-                "name": product.name,
-                "category": product.category.name,
-                "styles": [style.name for style in product.styles.all()],
-                "price_cents": product.priceCents,
-                "rating_stars": product.rating['stars'],
-            }
-            for product in recommended_products
+                {   
+                    "id" : product.id,
+                    "name": product.name,
+                    "category": product.category.name,
+                    "styles": [style.name for style in product.styles.all()],
+                    "priceCents": product.priceCents,
+                    "rating_stars": product.rating['stars'],
+                }
+                for product in recommended_products
         ]
 
         return JsonResponse(recommended_products_data, safe=False)
@@ -143,16 +144,16 @@ def checkbox_category_recommend(request):
 
         recommended_products = sorted(recommended_products, key=lambda x: x.rating["stars"], reverse=True)
         print(len(recommended_products))
-        # Prepare JSON response
         recommended_products_data = [
-            {
-                "name": product.name,
-                "category": product.category.name,
-                "styles": [style.name for style in product.styles.all()],
-                "price_cents": product.priceCents,
-                "rating_stars": product.rating['stars'],
-            }
-            for product in recommended_products
+                {   
+                    "id" : product.id,
+                    "name": product.name,
+                    "category": product.category.name,
+                    "styles": [style.name for style in product.styles.all()],
+                    "priceCents": product.priceCents,
+                    "rating_stars": product.rating['stars'],
+                }
+                for product in recommended_products
         ]
 
         return JsonResponse(recommended_products_data, safe=False)
@@ -184,14 +185,15 @@ def shopping_history_recommend(request):
         recommended_products = sorted(recommended_products, key=lambda x: x.rating["stars"], reverse=True)
         print(len(recommended_products))
         recommended_products_data = [
-                {
+                {   
+                    "id" : product.id,
                     "name": product.name,
                     "category": product.category.name,
                     "styles": [style.name for style in product.styles.all()],
-                    "price_cents": product.priceCents,
+                    "priceCents": product.priceCents,
                     "rating_stars": product.rating['stars'],
                 }
                 for product in recommended_products
-            ]
+        ]
 
         return JsonResponse(recommended_products_data, safe=False)
