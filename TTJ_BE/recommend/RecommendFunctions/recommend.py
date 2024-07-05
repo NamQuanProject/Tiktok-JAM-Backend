@@ -61,10 +61,8 @@ class RecommendProducts():
         Category and style and price you think that query belongs to is:
         Answer:
         """
-        print(style_prompt)
         text_response = get_rec(prompt=style_prompt)
         text_response = process_response(text_response)
-        print(text_response)
         categories_of_interest = json.loads(text_response)
         return categories_of_interest
 

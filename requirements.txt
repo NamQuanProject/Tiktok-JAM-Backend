@@ -5,3 +5,4 @@ accelerate
 djangorestframework
 django-cors-headers
 pillow
+openai

@@ -17,7 +17,7 @@ def json_to_db():
         data = json.load(file)
         for category, styles in data.items():
             category_instance = Category.objects.create(name=category.lower())
-            category_instance.save()
+            category_instance.save()    
             for style in styles:
                 style_instance, created = Style.objects.get_or_create(name=style.lower())
                 style_instance.save()
